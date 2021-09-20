@@ -1,0 +1,419 @@
+{
+  "project": {
+    "projectId": 33407,
+    "title": "High Performance Computing-Accelerated Metrology for Large Optical Telescopes, Phase II",
+    "primaryTaxonomyNodes": [
+      {
+        "taxonomyNodeId": 10937,
+        "taxonomyRootId": 8816,
+        "parentNodeId": 10929,
+        "level": 3,
+        "code": "TX14.2.8",
+        "title": "Measurement and Control",
+        "definition": "This area includes technologies to improve measurement and control of thermal systems.",
+        "exampleTechnologies": "Sensors, mechanical thermostats, temperature control software and algorithms.",
+        "hasChildren": false,
+        "hasInteriorContent": true
+      }
+    ],
+    "startTrl": 4,
+    "currentTrl": 7,
+    "endTrl": 7,
+    "benefits": "This NASA SBIR will provide opportunities to advance the state-of-the-art in metrology solutions applicable to large, segmented mirrors. This includes high-precision optics used by the Department of Defense, which is a key market SURVICE will explore and exploit in Phase III commercialization efforts.    With segmented mirrors being the likely or preferred type of construction for most future large optical telescopes, there will be many opportunities to employ the SURVICE metrology solution on NASA and European telescope programs, to include the James Webb Space Telescope (JWST), the Wide-Field Infrared Survey Telescope (WFIRST), the Advanced Technology Large-Aperture Space Telescope (ATLAST), and the European Extremely Large Telescope (E-ELT).<br /><br />The manufacturing of DoD, NASA, and international space program telescopes is performed by numerous Original Equipment Manufacturing (OEM) firms.  These firms support a broad spectrum of customers that include but are not limited to the NASA.  SURVICE has already identified both US and international partners that are interested in the proposed technology development.",
+    "description": "NASA has unique non-contact precision metrology requirements for dimensionally inspecting the global position and orientation of large and highly-polished multi-segmented mirrors (in an as-installed configuration), such as those used on the James Webb Space Telescope. SURVICE Metrology has assembled a world-class team of metrologists and optical physicists to develop M-TEC, an innovative non-contact metrology solution that extends traditional deflectometry for determining reflective-surface profiles by combining pattern matching and high performance computing techniques.     In addition to our in-house staff of experts in metrology and optics, our team includes industry-recognized academic experts in metrology. Our solution has demonstrated the ability to accurately measure the global position and orientation of mirror segments in an as-installed configuration using non-contact means from a safe distance to allow measurements to be made with minimal risk to the asset. SURVICE proposes to further research and develop the technology under the Phase II effort, culminating with a fully-functional and validated prototype.",
+    "startYear": 2015,
+    "startMonth": 5,
+    "endYear": 2017,
+    "endMonth": 5,
+    "statusDescription": "Completed",
+    "programDirectors": [
+      {
+        "contactId": 206378,
+        "firstName": "Jason",
+        "lastName": "Kessler",
+        "fullName": "Jason L Kessler",
+        "fullNameInverted": "Kessler, Jason L",
+        "middleInitial": "L",
+        "primaryEmail": "jason.l.kessler@nasa.gov",
+        "publicEmail": true,
+        "nacontact": false
+      }
+    ],
+    "programExecutives": [
+      {
+        "contactId": 215154,
+        "firstName": "Jennifer",
+        "lastName": "Gustetic",
+        "fullName": "Jennifer L Gustetic",
+        "fullNameInverted": "Gustetic, Jennifer L",
+        "middleInitial": "L",
+        "primaryEmail": "jennifer.l.gustetic@nasa.gov",
+        "publicEmail": true,
+        "nacontact": false
+      }
+    ],
+    "programManagers": [
+      {
+        "contactId": 62051,
+        "firstName": "Carlos",
+        "lastName": "Torrez",
+        "fullName": "Carlos Torrez",
+        "fullNameInverted": "Torrez, Carlos",
+        "primaryEmail": "carlos.torrez@nasa.gov",
+        "publicEmail": true,
+        "nacontact": false
+      }
+    ],
+    "libraryItems": [
+      {
+        "file": {
+          "fileExtension": "pdf",
+          "fileId": 30906,
+          "fileName": "briefchart",
+          "fileSize": 85507,
+          "objectId": 41125,
+          "objectType": {
+            "lkuCodeId": 889,
+            "code": "LIBRARY_ITEMS",
+            "description": "Library Items",
+            "lkuCodeTypeId": 182,
+            "lkuCodeType": {
+              "codeType": "OBJECT_TYPE",
+              "description": "Object Type"
+            }
+          },
+          "objectTypeId": 889
+        },
+        "files": [
+          {
+            "fileExtension": "pdf",
+            "fileId": 30906,
+            "fileName": "briefchart",
+            "fileSize": 85507,
+            "objectId": 41125,
+            "objectType": {
+              "lkuCodeId": 889,
+              "code": "LIBRARY_ITEMS",
+              "description": "Library Items",
+              "lkuCodeTypeId": 182,
+              "lkuCodeType": {
+                "codeType": "OBJECT_TYPE",
+                "description": "Object Type"
+              }
+            },
+            "objectTypeId": 889
+          }
+        ],
+        "id": 41125,
+        "title": "Briefing Chart",
+        "description": "High Performance Computing-Accelerated Metrology for Large Optical Telescopes, Phase II Briefing Chart",
+        "libraryItemTypeId": 1222,
+        "projectId": 33407,
+        "primary": false,
+        "publishedDateString": "",
+        "contentType": {
+          "lkuCodeId": 1222,
+          "code": "DOCUMENT",
+          "description": "Document",
+          "lkuCodeTypeId": 341,
+          "lkuCodeType": {
+            "codeType": "LIBRARY_ITEM_TYPE",
+            "description": "Library Item Type"
+          }
+        }
+      },
+      {
+        "caption": "High Performance Computing-Accelerated Metrology for Large Optical Telescopes Briefing Chart",
+        "file": {
+          "fileExtension": "png",
+          "fileId": 17842,
+          "fileName": "SBIR_2014_2_BC_S2.04-9255",
+          "fileSize": 69613,
+          "objectId": 26480,
+          "objectType": {
+            "lkuCodeId": 889,
+            "code": "LIBRARY_ITEMS",
+            "description": "Library Items",
+            "lkuCodeTypeId": 182,
+            "lkuCodeType": {
+              "codeType": "OBJECT_TYPE",
+              "description": "Object Type"
+            }
+          },
+          "objectTypeId": 889
+        },
+        "files": [
+          {
+            "fileExtension": "png",
+            "fileId": 17842,
+            "fileName": "SBIR_2014_2_BC_S2.04-9255",
+            "fileSize": 69613,
+            "objectId": 26480,
+            "objectType": {
+              "lkuCodeId": 889,
+              "code": "LIBRARY_ITEMS",
+              "description": "Library Items",
+              "lkuCodeTypeId": 182,
+              "lkuCodeType": {
+                "codeType": "OBJECT_TYPE",
+                "description": "Object Type"
+              }
+            },
+            "objectTypeId": 889
+          }
+        ],
+        "id": 26480,
+        "title": "Briefing Chart",
+        "description": "High Performance Computing-Accelerated Metrology for Large Optical Telescopes Briefing Chart",
+        "libraryItemTypeId": 1095,
+        "projectId": 33407,
+        "primary": false,
+        "publishedDateString": "",
+        "contentType": {
+          "lkuCodeId": 1095,
+          "code": "IMAGE",
+          "description": "Image",
+          "lkuCodeTypeId": 341,
+          "lkuCodeType": {
+            "codeType": "LIBRARY_ITEM_TYPE",
+            "description": "Library Item Type"
+          }
+        }
+      },
+      {
+        "caption": "High Performance Computing-Accelerated Metrology for Large Optical Telescopes, Phase II Briefing Chart Image",
+        "file": {
+          "fileExtension": "png",
+          "fileId": 30108,
+          "fileName": "SBIR_2014_2_BC_S2.04-9255",
+          "fileSize": 69613,
+          "objectId": 39791,
+          "objectType": {
+            "lkuCodeId": 889,
+            "code": "LIBRARY_ITEMS",
+            "description": "Library Items",
+            "lkuCodeTypeId": 182,
+            "lkuCodeType": {
+              "codeType": "OBJECT_TYPE",
+              "description": "Object Type"
+            }
+          },
+          "objectTypeId": 889
+        },
+        "files": [
+          {
+            "fileExtension": "png",
+            "fileId": 30108,
+            "fileName": "SBIR_2014_2_BC_S2.04-9255",
+            "fileSize": 69613,
+            "objectId": 39791,
+            "objectType": {
+              "lkuCodeId": 889,
+              "code": "LIBRARY_ITEMS",
+              "description": "Library Items",
+              "lkuCodeTypeId": 182,
+              "lkuCodeType": {
+                "codeType": "OBJECT_TYPE",
+                "description": "Object Type"
+              }
+            },
+            "objectTypeId": 889
+          }
+        ],
+        "id": 39791,
+        "title": "Briefing Chart Image",
+        "description": "High Performance Computing-Accelerated Metrology for Large Optical Telescopes, Phase II Briefing Chart Image",
+        "libraryItemTypeId": 1095,
+        "projectId": 33407,
+        "primary": true,
+        "publishedDateString": "",
+        "contentType": {
+          "lkuCodeId": 1095,
+          "code": "IMAGE",
+          "description": "Image",
+          "lkuCodeTypeId": 341,
+          "lkuCodeType": {
+            "codeType": "LIBRARY_ITEM_TYPE",
+            "description": "Library Item Type"
+          }
+        }
+      }
+    ],
+    "primaryImage": {
+      "file": { "fileExtension": "png", "fileId": 30108 },
+      "id": 39791,
+      "description": "High Performance Computing-Accelerated Metrology for Large Optical Telescopes, Phase II Briefing Chart Image",
+      "projectId": 33407,
+      "publishedDateString": ""
+    },
+    "responsibleMd": {
+      "acronym": "STMD",
+      "canUserEdit": false,
+      "city": "",
+      "external": true,
+      "linkCount": 0,
+      "organizationId": 4875,
+      "organizationName": "Space Technology Mission Directorate",
+      "organizationType": "NASA_Mission_Directorate",
+      "naorganization": false,
+      "organizationTypePretty": "NASA Mission Directorate"
+    },
+    "program": {
+      "acronym": "SBIR/STTR",
+      "active": true,
+      "description": "<p>The NASA SBIR and STTR programs fund the research, development, and demonstration of innovative technologies that fulfill NASA needs as described in the annual Solicitations and have significant potential for successful commercialization. If you are a small business concern (SBC) with 500 or fewer employees or a non-profit RI such as a university or a research laboratory with ties to an SBC, then NASA encourages you to learn more about the SBIR and STTR programs as a potential source of seed funding for the development of your innovations.</p><p><strong>The SBIR and STTR programs have 3 phases</strong>:</p><ul><li><strong>Phase I</strong> is the opportunity to establish the scientific, technical, and commercial feasibility of the proposed innovation in fulfillment of NASA needs.</li><li><strong>Phase II</strong> is focused on the development, demonstration and delivery of the proposed innovation.</li></ul><p>The SBIR and STTR Phase I contracts last for 6 months with a maximum funding of $125,000, and Phase II contracts last for 24 months with a maximum funding of $750,000 - $1.5 million.</p><ul><li><strong>Phase III</strong> is the commercialization of innovative technologies, products, and services resulting from either a Phase I or Phase II contract. Phase III contracts are funded from sources other than the SBIR and STTR programs and may be awarded without further competition.</li></ul><p><strong>Opportunity for Continued Technology Development Post-Phase II</strong>:</p><p>The NASA SBIR/STTR Program currently has in place two initiatives for supporting its small business partners past the basic Phase I and Phase II elements of the program that emphasize opportunities for commercialization. Specifically, the NASA SBIR/STTR Program has the Phase II Enhancement (Phase II-E) and Phase II eXpanded (Phase II-X) contract options.&nbsp;</p><p><strong>Please review the links below to obtain more information on the SBIR/STTR programs.</strong></p><ul><li><strong><a target=\"_blank\" href=\"http://sbir.gsfc.nasa.gov/sites/default/files/ParticipationGuide.pdf\">Participation Guide</a></strong></li></ul><p>Provides an overview of the SBIR and STTR programs as implemented by NASA</p><ul><li><strong><a href=\"http://sbir.gsfc.nasa.gov/solicitations\">Program Solicitations</a></strong></li></ul><p>Provides access to the annual SBIR/STTR Solicitations containing detailed information on the program eligibility requirements, proposal instructions and research topics and subtopics</p><ul><li><strong><a href=\"http://sbir.gsfc.nasa.gov/prg_sched_anncmnt\">Schedule and Awards</a></strong></li></ul><p>Schedule and links for the SBIR/STTR solicitations and selection announcements</p><ul><li><strong><a href=\"http://sbir.gsfc.nasa.gov/content/additional-sources-assistance\">Sources of Assistance</a></strong></li></ul><p>Federal and non-Federal sources of assistance for small business</p><ul><li><strong><a href=\"http://sbir.gsfc.nasa.gov/abstract_archives\">Awarded Abstracts</a></strong></li></ul><p>Search our complete archive of awarded project abstracts to learn about what NASA has funded</p><ul><li><strong><a href=\"http://sbir.gsfc.nasa.gov/content/frequently-asked-questions\">Frequently Asked Questions</a></strong></li></ul><p>&nbsp;Still have questions? Visit the program FAQs</p>",
+      "programId": 73,
+      "responsibleMd": {
+        "acronym": "STMD",
+        "canUserEdit": false,
+        "city": "",
+        "external": true,
+        "linkCount": 0,
+        "organizationId": 4875,
+        "organizationName": "Space Technology Mission Directorate",
+        "organizationType": "NASA_Mission_Directorate",
+        "naorganization": false,
+        "organizationTypePretty": "NASA Mission Directorate"
+      },
+      "responsibleMdId": 4875,
+      "stockImageFileId": 36648,
+      "title": "SBIR/STTR"
+    },
+    "leadOrganization": {
+      "acronym": "GSFC",
+      "canUserEdit": false,
+      "city": "Greenbelt",
+      "country": {
+        "abbreviation": "US",
+        "countryId": 236,
+        "name": "United States"
+      },
+      "countryId": 236,
+      "external": false,
+      "linkCount": 0,
+      "organizationId": 4947,
+      "organizationName": "Goddard Space Flight Center",
+      "organizationType": "NASA_Center",
+      "stateTerritory": {
+        "abbreviation": "MD",
+        "country": {
+          "abbreviation": "US",
+          "countryId": 236,
+          "name": "United States"
+        },
+        "countryId": 236,
+        "name": "Maryland",
+        "stateTerritoryId": 3
+      },
+      "stateTerritoryId": 3,
+      "naorganization": false,
+      "organizationTypePretty": "NASA Center"
+    },
+    "supportingOrganizations": [
+      {
+        "canUserEdit": false,
+        "city": "Belcamp",
+        "country": {
+          "abbreviation": "US",
+          "countryId": 236,
+          "name": "United States"
+        },
+        "countryId": 236,
+        "external": true,
+        "linkCount": 0,
+        "organizationId": 3073,
+        "organizationName": "SURVICE Engineering Company, LLC",
+        "organizationType": "Industry",
+        "stateTerritory": {
+          "abbreviation": "MD",
+          "country": {
+            "abbreviation": "US",
+            "countryId": 236,
+            "name": "United States"
+          },
+          "countryId": 236,
+          "name": "Maryland",
+          "stateTerritoryId": 3
+        },
+        "stateTerritoryId": 3,
+        "naorganization": false,
+        "organizationTypePretty": "Industry"
+      }
+    ],
+    "statesWithWork": [
+      {
+        "abbreviation": "MD",
+        "country": {
+          "abbreviation": "US",
+          "countryId": 236,
+          "name": "United States"
+        },
+        "countryId": 236,
+        "name": "Maryland",
+        "stateTerritoryId": 3
+      }
+    ],
+    "closeoutDocuments": [
+      {
+        "file": {
+          "fileExtension": "pdf",
+          "fileId": 29649,
+          "fileName": "finalSummaryChart",
+          "fileSize": 114808,
+          "objectId": 42414,
+          "objectType": {
+            "lkuCodeId": 889,
+            "code": "LIBRARY_ITEMS",
+            "description": "Library Items",
+            "lkuCodeTypeId": 182,
+            "lkuCodeType": {
+              "codeType": "OBJECT_TYPE",
+              "description": "Object Type"
+            }
+          },
+          "objectTypeId": 889
+        },
+        "files": [
+          {
+            "fileExtension": "pdf",
+            "fileId": 29649,
+            "fileName": "finalSummaryChart",
+            "fileSize": 114808,
+            "objectId": 42414,
+            "objectType": {
+              "lkuCodeId": 889,
+              "code": "LIBRARY_ITEMS",
+              "description": "Library Items",
+              "lkuCodeTypeId": 182,
+              "lkuCodeType": {
+                "codeType": "OBJECT_TYPE",
+                "description": "Object Type"
+              }
+            },
+            "objectTypeId": 889
+          }
+        ],
+        "id": 42414,
+        "title": "Final Summary Chart",
+        "libraryItemTypeId": 1493,
+        "projectId": 33407,
+        "primary": false,
+        "publishedDateString": "May 2017",
+        "contentType": {
+          "lkuCodeId": 1493,
+          "code": "CLOSEOUT_DOCUMENT",
+          "description": "Closeout document",
+          "lkuCodeTypeId": 341,
+          "lkuCodeType": {
+            "codeType": "LIBRARY_ITEM_TYPE",
+            "description": "Library Item Type"
+          }
+        }
+      }
+    ],
+    "lastUpdated": "2019-6-6",
+    "releaseStatusString": "Released",
+    "endDateString": "May 2017",
+    "startDateString": "May 2015"
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "libraryItems": [
+    {
+      "file": {
+        "fileExtension": "pdf",
+        "fileId": 30906,
+        "fileName": "briefchart",
+        "fileSize": 85507,
+        "objectId": 41125,
+        "objectType": {
+          "lkuCodeId": 889,
+          "code": "LIBRARY_ITEMS",
+          "description": "Library Items",
+          "lkuCodeTypeId": 182,
+          "lkuCodeType": {
+            "codeType": "OBJECT_TYPE",
+            "description": "Object Type"
+          }
+        },
+        "objectTypeId": 889
+      },
+      "files": [
+        {
+          "fileExtension": "pdf",
+          "fileId": 30906,
+          "fileName": "briefchart",
+          "fileSize": 85507,
+          "objectId": 41125,
+          "objectType": {
+            "lkuCodeId": 889,
+            "code": "LIBRARY_ITEMS",
+            "description": "Library Items",
+            "lkuCodeTypeId": 182,
+            "lkuCodeType": {
+              "codeType": "OBJECT_TYPE",
+              "description": "Object Type"
+            }
+          },
+          "objectTypeId": 889
+        }
+      ],
+      "id": 41125,
+      "title": "Briefing Chart",
+      "description": "High Performance Computing-Accelerated Metrology for Large Optical Telescopes, Phase II Briefing Chart",
+      "libraryItemTypeId": 1222,
+      "projectId": 33407,
+      "primary": false,
+      "publishedDateString": "",
+      "contentType": {
+        "lkuCodeId": 1222,
+        "code": "DOCUMENT",
+        "description": "Document",
+        "lkuCodeTypeId": 341,
+        "lkuCodeType": {
+          "codeType": "LIBRARY_ITEM_TYPE",
+          "description": "Library Item Type"
+        }
+      }
+    },
+    {
+      "caption": "High Performance Computing-Accelerated Metrology for Large Optical Telescopes Briefing Chart",
+      "file": {
+        "fileExtension": "png",
+        "fileId": 17842,
+        "fileName": "SBIR_2014_2_BC_S2.04-9255",
+        "fileSize": 69613,
+        "objectId": 26480,
+        "objectType": {
+          "lkuCodeId": 889,
+          "code": "LIBRARY_ITEMS",
+          "description": "Library Items",
+          "lkuCodeTypeId": 182,
+          "lkuCodeType": {
+            "codeType": "OBJECT_TYPE",
+            "description": "Object Type"
+          }
+        },
+        "objectTypeId": 889
+      },
+      "files": [
+        {
+          "fileExtension": "png",
+          "fileId": 17842,
+          "fileName": "SBIR_2014_2_BC_S2.04-9255",
+          "fileSize": 69613,
+          "objectId": 26480,
+          "objectType": {
+            "lkuCodeId": 889,
+            "code": "LIBRARY_ITEMS",
+            "description": "Library Items",
+            "lkuCodeTypeId": 182,
+            "lkuCodeType": {
+              "codeType": "OBJECT_TYPE",
+              "description": "Object Type"
+            }
+          },
+          "objectTypeId": 889
+        }
+      ],
+      "id": 26480,
+      "title": "Briefing Chart",
+      "description": "High Performance Computing-Accelerated Metrology for Large Optical Telescopes Briefing Chart",
+      "libraryItemTypeId": 1095,
+      "projectId": 33407,
+      "primary": false,
+      "publishedDateString": "",
+      "contentType": {
+        "lkuCodeId": 1095,
+        "code": "IMAGE",
+        "description": "Image",
+        "lkuCodeTypeId": 341,
+        "lkuCodeType": {
+          "codeType": "LIBRARY_ITEM_TYPE",
+          "description": "Library Item Type"
+        }
+      }
+    },
+    {
+      "caption": "High Performance Computing-Accelerated Metrology for Large Optical Telescopes, Phase II Briefing Chart Image",
+      "file": {
+        "fileExtension": "png",
+        "fileId": 30108,
+        "fileName": "SBIR_2014_2_BC_S2.04-9255",
+        "fileSize": 69613,
+        "objectId": 39791,
+        "objectType": {
+          "lkuCodeId": 889,
+          "code": "LIBRARY_ITEMS",
+          "description": "Library Items",
+          "lkuCodeTypeId": 182,
+          "lkuCodeType": {
+            "codeType": "OBJECT_TYPE",
+            "description": "Object Type"
+          }
+        },
+        "objectTypeId": 889
+      },
+      "files": [
+        {
+          "fileExtension": "png",
+          "fileId": 30108,
+          "fileName": "SBIR_2014_2_BC_S2.04-9255",
+          "fileSize": 69613,
+          "objectId": 39791,
+          "objectType": {
+            "lkuCodeId": 889,
+            "code": "LIBRARY_ITEMS",
+            "description": "Library Items",
+            "lkuCodeTypeId": 182,
+            "lkuCodeType": {
+              "codeType": "OBJECT_TYPE",
+              "description": "Object Type"
+            }
+          },
+          "objectTypeId": 889
+        }
+      ],
+      "id": 39791,
+      "title": "Briefing Chart Image",
+      "description": "High Performance Computing-Accelerated Metrology for Large Optical Telescopes, Phase II Briefing Chart Image",
+      "libraryItemTypeId": 1095,
+      "projectId": 33407,
+      "primary": true,
+      "publishedDateString": "",
+      "contentType": {
+        "lkuCodeId": 1095,
+        "code": "IMAGE",
+        "description": "Image",
+        "lkuCodeTypeId": 341,
+        "lkuCodeType": {
+          "codeType": "LIBRARY_ITEM_TYPE",
+          "description": "Library Item Type"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "libraryItems": [
+    {
+      "caption": "Concept growing 0.6 m to a 1.0 m diameter telescope using satlet",
+      "file": {
+        "fileExtension": "png",
+        "fileId": 18398,
+        "fileName": "CAST_0.6m_grow_1.0m_concept",
+        "fileSize": 206397,
+        "objectId": 27044,
+        "objectType": {
+          "lkuCodeId": 889,
+          "code": "LIBRARY_ITEMS",
+          "description": "Library Items",
+          "lkuCodeTypeId": 182,
+          "lkuCodeType": {
+            "codeType": "OBJECT_TYPE",
+            "description": "Object Type"
+          }
+        },
+        "objectTypeId": 889
+      },
+      "files": [
+        {
+          "fileExtension": "png",
+          "fileId": 18398,
+          "fileName": "CAST_0.6m_grow_1.0m_concept",
+          "fileSize": 206397,
+          "objectId": 27044,
+          "objectType": {
+            "lkuCodeId": 889,
+            "code": "LIBRARY_ITEMS",
+            "description": "Library Items",
+            "lkuCodeTypeId": 182,
+            "lkuCodeType": {
+              "codeType": "OBJECT_TYPE",
+              "description": "Object Type"
+            }
+          },
+          "objectTypeId": 889
+        }
+      ],
+      "id": 27044,
+      "title": "Configurable Aperture Space Telescope (Aperture Growth Concept)",
+      "description": "Concept growing 0.6 m to a 1.0 m diameter telescope using satlet",
+      "libraryItemTypeId": 1095,
+      "projectId": 23337,
+      "primary": true,
+      "publishedDateString": "",
+      "contentType": {
+        "lkuCodeId": 1095,
+        "code": "IMAGE",
+        "description": "Image",
+        "lkuCodeTypeId": 341,
+        "lkuCodeType": {
+          "codeType": "LIBRARY_ITEM_TYPE",
+          "description": "Library Item Type"
+        }
+      }
+    },
+    {
+      "file": {
+        "fileExtension": "pdf",
+        "fileId": 18399,
+        "fileName": "Early_Stage_Technology_Workshop_CAST_Ennico_v3lores2.pptx (Read-Only)",
+        "fileSize": 3660630,
+        "objectId": 27045,
+        "objectType": {
+          "lkuCodeId": 889,
+          "code": "LIBRARY_ITEMS",
+          "description": "Library Items",
+          "lkuCodeTypeId": 182,
+          "lkuCodeType": {
+            "codeType": "OBJECT_TYPE",
+            "description": "Object Type"
+          }
+        },
+        "objectTypeId": 889
+      },
+      "files": [
+        {
+          "fileExtension": "pdf",
+          "fileId": 18399,
+          "fileName": "Early_Stage_Technology_Workshop_CAST_Ennico_v3lores2.pptx (Read-Only)",
+          "fileSize": 3660630,
+          "objectId": 27045,
+          "objectType": {
+            "lkuCodeId": 889,
+            "code": "LIBRARY_ITEMS",
+            "description": "Library Items",
+            "lkuCodeTypeId": 182,
+            "lkuCodeType": {
+              "codeType": "OBJECT_TYPE",
+              "description": "Object Type"
+            }
+          },
+          "objectTypeId": 889
+        }
+      ],
+      "id": 27045,
+      "title": "Configurable Aperture Space Telescope (Early Stage Workshop Presentation)",
+      "libraryItemTypeId": 1222,
+      "projectId": 23337,
+      "primary": false,
+      "publishedDateString": "Mar 2015",
+      "contentType": {
+        "lkuCodeId": 1222,
+        "code": "DOCUMENT",
+        "description": "Document",
+        "lkuCodeTypeId": 341,
+        "lkuCodeType": {
+          "codeType": "LIBRARY_ITEM_TYPE",
+          "description": "Library Item Type"
+        }
+      }
+    }
+  ]
+}

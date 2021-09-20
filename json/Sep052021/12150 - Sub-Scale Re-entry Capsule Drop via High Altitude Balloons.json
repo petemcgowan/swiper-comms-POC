@@ -1,0 +1,63 @@
+{
+  "project": {
+    "id": 12150,
+    "lastUpdated": "2018-10-10",
+    "title": "Sub-Scale Re-entry Capsule Drop via High Altitude Balloons",
+    "status": "Completed",
+    "startDate": "Oct 2011",
+    "endDate": "Sep 2012",
+    "description": "<p>The project objective is to develop and test a sub-scale version of the Maraia Entry Capsule on a high altitude balloon. The capsule is released at 100,000 ft. The freefall portion of flight is used to provide data on the subsystems, dynamics and aerodynamics of the vehicle shape. A parachute is deployed prior to soft touchdown. The test utilizes a prototype parachute and deployment system for the full scale Maraia Capsule.<p/><p>High-altitude balloon flights are an inexpensive method used to lift payloads to high altitudes. Federal Aviation Administration (FAA) regulations permit payloads of up to 6 lbs without requiring any waivers or special permissions. Using such a balloon flight capability, the Rocket University program at Kennedy Space Center (KSC) has collaborated with the Johnson Space Center (JSC) to perform test flights of a sub-scale version of the Maraia Entry Capsule. The Maraia Capsule is envisioned as an entry technology testbed that could be adapted to return small payloads (10-100's of kg) from the International Space Station (ISS) or from beyond Low-Earth Orbit (LEO) destinations. The main test objective is to gain insight into the aerodynamic and dynamic properties of the capsule in the subsonic regime. The capsule has been scaled accordingly, resulting in a test article 10\" in diameter by approximately 6.5\" tall at the 6 lb weight limit. Secondary test objectives include testing subsystems (e.g. avionics, parachutes, and guidance, navigation, and control (GN&C) subsystems) planned for use in future larger scale flights, as well as training and gaining overall experience in all aspects of designing, developing, and testing spaceflight systems. A priori winds and trajectory predictions are used to determine a launch location such that the trajectory and predicted landing location is desirable for safety and recovery purposes. The balloon is filled on the ground and payload lines are laid along the predominant ground wind direction. The system is launched from a large open area in order to minimize the risk of entanglement and jerking of the lines and payloads. The balloon ascends for one to two hours, depending on payload mass and fill volume. Once above an altitude of 70,000 ft, a release command is issued when trajectory predictions show that the capsule will land within the landing zone (or when they are closest to the zone, based on real-time trends). The capsule descends in freefall to 50,000 ft, at which point an autonomous command is sent to deploy the parachute. The ground operator may also manually issue a parachute deploy command at any time. The capsule then descends and lands, with an approximate terminal velocity of 38 ft/s. A separate release command is issued for the Rocket University payload, which contains its own avionics, when landing predictions are such that it is desirable for the payload to separate from the balloon and land. (Note: on Flight #1, this command was issued simultaneously for both payloads. Future flights will permit separate commands for better control of payload landing locations). The parachute system for the Rocket University payload is an inline, pre-deployed system that inflates as the payload descends. The balloon then ascends (now more quickly, with less payload attached) and bursts at (very approximately) 115,000 ft, and is not recovered. The subscale Maraia Capsule includes avionics, a parachute deployment system, communications, power, a global positioning system (GPS) / inertial navigation system (INS) sensor, a GoPro camera, a flight processor, and a data recorder. A barometric altimeter is being added for Flight #2. A number of blog websites and YouTube videos have been posted on the web of other groups and individuals performing high-altitude balloon flights. However, NASA's effort is unique because it is pushing the envelope on small high-altitude balloon flights in a few different ways. First, Rocket University has developed an avionics platform that will fly on large-scale balloon flights, unmanned aerial vehicles (UAVs), and rockets. Second, Rocket University's approach of using telemetered and recorded GPS, inertial measurement unit (IMU), altimeter, and video data is much more advanced than the typical hobbyist's approach of using a cell phone / camera combination tracked via the web. Additionally, this capsule uses a parachute deploy system originally modified from a typical rocketry system using black powder to one using a commanded servo/pin/spring combination, in order to reduce the hazard associated with explosives. Finally, this capsule is a prototype for a potential sample return capsule designed to bring back samples from the ISS, an asteroid, the Moon, or Mars.</p>",
+    "benefits": "<p> \tEntry, Descent, and Landing (EDL) technologies have long been identified as one of the critical, highest risk components of an eventual Human Mission to Mars. Mars Design Reference Architecture (DRA) and EDL Systems Analysis studies have shown the mid L/D rigid aeroshell to be one of the leading candidate platforms to enable this mission. Currently this technology and capability in the Agency is not funded. We propose to develop an incremental EDL capability which will enable payload return and entry testbed capability for the eventual development of large mass Mars entry designs. This initial development effort will provide training in systems engineering, aerodynamics, GN&amp;C, recovery systems, and hardware integration in a rapid development project.</p> </p>",
+    "technologyMaturityStart": "3",
+    "technologyMaturityEnd": "6",
+    "responsibleProgram": "Center Innovation Fund: JSC CIF",
+    "responsibleMissionDirectorateOrOffice": "Space Technology Mission Directorate",
+    "leadOrganization": {
+      "name": "Johnson Space Center",
+      "type": "NASA Center",
+      "acronym": "JSC",
+      "city": "Houston",
+      "state": "TX",
+      "country": "United States"
+    },
+    "workLocations": ["Texas"],
+    "programDirectors": ["Richard T Howard"],
+    "programManagers": ["Carlos H Westhelle"],
+    "projectManagers": ["Ronald R Sostaric"],
+    "principalInvestigators": ["Ronald R Sostaric"],
+    "libraryItems": [
+      {
+        "id": 1023,
+        "title": "12150-1379607056286.jpg",
+        "type": "Image",
+        "description": "Project Image   Sub-Scale Re-entry Capsule Drop via High Altitude Balloons",
+        "externalUrl": null,
+        "publishedBy": null,
+        "publishedDate": null,
+        "files": [
+          {
+            "id": 2306,
+            "url": "https://techport.nasa.gov/file/2306",
+            "size": 82775
+          }
+        ]
+      }
+    ],
+    "primaryTas": [
+      {
+        "id": 10759,
+        "code": "TX09",
+        "title": "Entry, Descent, and Landing",
+        "priority": null
+      },
+      { "id": 10764, "code": "TX09.2", "title": "Descent", "priority": null },
+      {
+        "id": 10765,
+        "code": "TX09.2.1",
+        "title": "Aerodynamic Decelerators",
+        "priority": null
+      }
+    ],
+    "additionalTas": []
+  }
+}

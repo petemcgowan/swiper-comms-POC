@@ -1,0 +1,62 @@
+{
+  "projects": [
+    { "projectId": 93472, "title": "Europa Drum Sampler (EDuS), Phase I" },
+    { "projectId": 88515, "title": "Nano Icy Moons Propellant Harvester " },
+    {
+      "projectId": 33684,
+      "title": "Radiation-Hard Ka-Band Power Amplifier for CubeSats, Phase I"
+    },
+    {
+      "projectId": 93739,
+      "title": "Robust, Low SWAP Planetary Entry, Descent and Landing System, Phase II"
+    },
+    {
+      "projectId": 15242,
+      "title": "Solving Fundamental Technical Challenges toward a Space-qualified Miniature Absolute Scalar Magnetometer"
+    },
+    {
+      "projectId": 93301,
+      "title": "Qualified Electronics for Extreme Cold Environment"
+    },
+    {
+      "projectId": 89504,
+      "title": "RFI mitigating receiver back end for radiometers, Phase I"
+    },
+    {
+      "projectId": 92060,
+      "title": "Radar Sounding and Propagation through Heterogeneous Media"
+    },
+    {
+      "projectId": 33259,
+      "title": "Large Area Silicon Carbide Photodiode Active Pixel Sensor, Phase I"
+    },
+    {
+      "projectId": 94570,
+      "title": "Elastic-Memory Composite Antenna Booms for SmallSats, Phase I"
+    },
+    {
+      "projectId": 94501,
+      "title": "Assured Resilience for Autonomous Systems, Phase I"
+    },
+    {
+      "projectId": 92710,
+      "title": "Next-generation Miniaturized Thermal Imagers Based on Advanced Thermoelectric Materials and an Innovative Ultra-compact Optical Design"
+    },
+    {
+      "projectId": 94638,
+      "title": "Integrated On-Chip Power for Harsh Environments, Phase I"
+    },
+    {
+      "projectId": 94722,
+      "title": "Pushing the State of the Art: A Web-enabled MBSE Analysis Integration Framework, Phase I"
+    },
+    {
+      "projectId": 18163,
+      "title": "Integrated Modeling, Analysis, and Verification for Space Missions, Phase I"
+    },
+    {
+      "projectId": 92846,
+      "title": "Optimized Integrated Vehicle, Operations, and Network Constellation Design"
+    }
+  ]
+}

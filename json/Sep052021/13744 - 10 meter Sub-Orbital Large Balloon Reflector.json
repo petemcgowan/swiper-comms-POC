@@ -1,0 +1,107 @@
+{
+  "project": {
+    "id": 13744,
+    "lastUpdated": "2018-10-10",
+    "title": "10 meter Sub-Orbital Large Balloon Reflector",
+    "acronym": "LBR",
+    "status": "Completed",
+    "startDate": "Jul 2013",
+    "endDate": "Mar 2014",
+    "description": "<p>If successful, the Large Balloon Reflector (LBR) will allow high spatial and spectral resolution follow-on studies from missions such as Herschel, Spitzer, and SOFIA to be performed at a fraction of the cost of space-based systems. The large collecting area of the LBR will also permit sensitive limb sounding studies of the Earth's atmosphere to be made and serve as a powerful tool for realizing communication networks for low-power ground stations or surveillance activities.</p> <p>The telescope consists of an inflatable, half-aluminized spherical reflector deployed within a much larger carrier balloon - either zero pressure or super pressure.</p>",
+    "benefits": "<p>N/A</p>",
+    "technologyMaturityStart": "1",
+    "technologyMaturityCurrent": "2",
+    "technologyMaturityEnd": "2",
+    "responsibleProgram": "NASA Innovative Advanced Concepts",
+    "responsibleMissionDirectorateOrOffice": "Space Technology Mission Directorate",
+    "leadOrganization": {
+      "name": "NASA Headquarters",
+      "type": "NASA Center",
+      "acronym": "HQ",
+      "city": "Washington",
+      "state": "DC",
+      "country": "United States"
+    },
+    "workLocations": ["Arizona", "California", "Maryland"],
+    "programDirectors": ["Jason E Derleth"],
+    "programManagers": ["Michael R Lapointe"],
+    "principalInvestigators": ["Christopher K Walker"],
+    "coInvestigators": ["Pietro Bernasconi", "Ira S Smith", "Paul Goldsmith"],
+    "website": "https://www.nasa.gov/directorates/spacetech/home/index.html",
+    "libraryItems": [
+      {
+        "id": 577,
+        "title": "13744-1390338421600.jpg",
+        "type": "Image",
+        "description": "Project Image   10 meter Sub-Orbital Large Balloon Reflector (LBR)",
+        "externalUrl": null,
+        "publishedBy": null,
+        "publishedDate": null,
+        "files": [
+          {
+            "id": 2472,
+            "url": "https://techport.nasa.gov/file/2472",
+            "size": 26411
+          }
+        ]
+      }
+    ],
+    "supportingOrganizations": [
+      {
+        "name": "Jet Propulsion Laboratory",
+        "type": "NASA Center",
+        "acronym": "JPL",
+        "city": "Pasadena",
+        "state": "CA",
+        "country": "United States"
+      },
+      {
+        "name": "University of Arizona",
+        "type": "Academic",
+        "acronym": null,
+        "city": "Tucson",
+        "state": "AZ",
+        "country": "United States"
+      }
+    ],
+    "coFundingPartners": [
+      {
+        "name": "Johns Hopkins University",
+        "type": "Academic",
+        "acronym": null,
+        "city": "Baltimore",
+        "state": "MD",
+        "country": "United States"
+      },
+      {
+        "name": "Southwest Research Institute",
+        "type": "Academic",
+        "acronym": "SWRI",
+        "city": "Boulder",
+        "state": "CO",
+        "country": "United States"
+      }
+    ],
+    "primaryTas": [
+      {
+        "id": 10892,
+        "code": "TX13",
+        "title": "Ground, Test, and Surface Systems",
+        "priority": null
+      },
+      {
+        "id": 10901,
+        "code": "TX13.2",
+        "title": "Test and Qualification",
+        "priority": null
+      },
+      {
+        "id": 10902,
+        "code": "TX13.2.1",
+        "title": "Mechanical/Structural Integrity Testing",
+        "priority": null
+      }
+    ],
+    "additionalTas": []
+  }
+}

@@ -1,0 +1,407 @@
+{
+  "project": {
+    "acronym": "LBR",
+    "projectId": 13744,
+    "title": "10 meter Sub-Orbital Large Balloon Reflector",
+    "primaryTaxonomyNodes": [
+      {
+        "taxonomyNodeId": 10902,
+        "taxonomyRootId": 8816,
+        "parentNodeId": 10901,
+        "level": 3,
+        "code": "TX13.2.1",
+        "title": "Mechanical/Structural Integrity Testing",
+        "definition": "Mechanical/structural integrity testing characterizes material properties, performance, and integrity to ensure reliable and safe structural components and verifies component performance under dynamic conditions and in cyclic processes.",
+        "exampleTechnologies": "Advanced Non-Conventional Schlieren Techniques; Temperature/Pressure Sensitive Paint; Advanced Force Measurement System; quick demate and remate T-0 couplers; composite materials repair, accelerated corrosion and material degradation testing, Smart Materials for Damage Detection; dynamic impact photogrammetry; high volume & high flow testing at high (6000psi) and ultra-high (>7500 psi) complex & high thrust propulsion systems testing",
+        "hasChildren": false,
+        "hasInteriorContent": true
+      }
+    ],
+    "startTrl": 1,
+    "currentTrl": 2,
+    "endTrl": 2,
+    "benefits": "<p>N/A</p>",
+    "description": "<p>If successful, the Large Balloon Reflector (LBR) will allow high spatial and spectral resolution follow-on studies from missions such as Herschel, Spitzer, and SOFIA to be performed at a fraction of the cost of space-based systems. The large collecting area of the LBR will also permit sensitive limb sounding studies of the Earth's atmosphere to be made and serve as a powerful tool for realizing communication networks for low-power ground stations or surveillance activities.</p> <p>The telescope consists of an inflatable, half-aluminized spherical reflector deployed within a much larger carrier balloon - either zero pressure or super pressure.</p>",
+    "startYear": 2013,
+    "startMonth": 7,
+    "endYear": 2014,
+    "endMonth": 3,
+    "statusDescription": "Completed",
+    "principalInvestigators": [
+      {
+        "contactId": 82612,
+        "firstName": "Christopher",
+        "lastName": "Walker",
+        "fullName": "Christopher K Walker",
+        "fullNameInverted": "Walker, Christopher K",
+        "middleInitial": "K",
+        "publicEmail": false,
+        "nacontact": false
+      }
+    ],
+    "programDirectors": [
+      {
+        "contactId": 205653,
+        "firstName": "Jason",
+        "lastName": "Derleth",
+        "fullName": "Jason E Derleth",
+        "fullNameInverted": "Derleth, Jason E",
+        "middleInitial": "E",
+        "primaryEmail": "jason.e.derleth@nasa.gov",
+        "publicEmail": true,
+        "nacontact": false
+      }
+    ],
+    "programExecutives": [
+      {
+        "contactId": 205653,
+        "firstName": "Jason",
+        "lastName": "Derleth",
+        "fullName": "Jason E Derleth",
+        "fullNameInverted": "Derleth, Jason E",
+        "middleInitial": "E",
+        "primaryEmail": "jason.e.derleth@nasa.gov",
+        "publicEmail": true,
+        "nacontact": false
+      }
+    ],
+    "programManagers": [
+      {
+        "contactId": 142364,
+        "firstName": "Eric",
+        "lastName": "Eberly",
+        "fullName": "Eric A Eberly",
+        "fullNameInverted": "Eberly, Eric A",
+        "middleInitial": "A",
+        "primaryEmail": "eric.eberly@nasa.gov",
+        "publicEmail": true,
+        "nacontact": false
+      }
+    ],
+    "coInvestigators": [
+      {
+        "contactId": 185923,
+        "firstName": "Ira",
+        "lastName": "Smith",
+        "fullName": "Ira S Smith",
+        "fullNameInverted": "Smith, Ira S",
+        "middleInitial": "S",
+        "publicEmail": false,
+        "nacontact": false
+      },
+      {
+        "contactId": 368628,
+        "firstName": "Paul",
+        "lastName": "Goldsmith",
+        "fullName": "Paul F Goldsmith",
+        "fullNameInverted": "Goldsmith, Paul F",
+        "middleInitial": "F",
+        "primaryEmail": "paul.f.goldsmith@jpl.nasa.gov",
+        "publicEmail": true,
+        "nacontact": false
+      },
+      {
+        "contactId": 377731,
+        "firstName": "Pietro",
+        "lastName": "Bernasconi",
+        "fullName": "Pietro N Bernasconi",
+        "fullNameInverted": "Bernasconi, Pietro N",
+        "middleInitial": "N",
+        "publicEmail": false,
+        "nacontact": false
+      }
+    ],
+    "website": "https://www.nasa.gov/directorates/spacetech/home/index.html",
+    "libraryItems": [
+      {
+        "caption": "Project Image   10 meter Sub-Orbital Large Balloon Reflector (LBR)",
+        "file": {
+          "fileExtension": "jpg",
+          "fileId": 2472,
+          "fileName": "13744-1390338421600",
+          "fileSize": 26411,
+          "objectId": 577,
+          "objectType": {
+            "lkuCodeId": 889,
+            "code": "LIBRARY_ITEMS",
+            "description": "Library Items",
+            "lkuCodeTypeId": 182,
+            "lkuCodeType": {
+              "codeType": "OBJECT_TYPE",
+              "description": "Object Type"
+            }
+          },
+          "objectTypeId": 889
+        },
+        "files": [
+          {
+            "fileExtension": "jpg",
+            "fileId": 2472,
+            "fileName": "13744-1390338421600",
+            "fileSize": 26411,
+            "objectId": 577,
+            "objectType": {
+              "lkuCodeId": 889,
+              "code": "LIBRARY_ITEMS",
+              "description": "Library Items",
+              "lkuCodeTypeId": 182,
+              "lkuCodeType": {
+                "codeType": "OBJECT_TYPE",
+                "description": "Object Type"
+              }
+            },
+            "objectTypeId": 889
+          }
+        ],
+        "id": 577,
+        "title": "13744-1390338421600.jpg",
+        "description": "Project Image   10 meter Sub-Orbital Large Balloon Reflector (LBR)",
+        "libraryItemTypeId": 1095,
+        "projectId": 13744,
+        "primary": true,
+        "publishedDateString": "",
+        "contentType": {
+          "lkuCodeId": 1095,
+          "code": "IMAGE",
+          "description": "Image",
+          "lkuCodeTypeId": 341,
+          "lkuCodeType": {
+            "codeType": "LIBRARY_ITEM_TYPE",
+            "description": "Library Item Type"
+          }
+        }
+      }
+    ],
+    "primaryImage": {
+      "file": { "fileExtension": "jpg", "fileId": 2472 },
+      "id": 577,
+      "description": "Project Image   10 meter Sub-Orbital Large Balloon Reflector (LBR)",
+      "projectId": 13744,
+      "publishedDateString": ""
+    },
+    "responsibleMd": {
+      "acronym": "STMD",
+      "canUserEdit": false,
+      "city": "",
+      "external": true,
+      "linkCount": 0,
+      "organizationId": 4875,
+      "organizationName": "Space Technology Mission Directorate",
+      "organizationType": "NASA_Mission_Directorate",
+      "naorganization": false,
+      "organizationTypePretty": "NASA Mission Directorate"
+    },
+    "program": {
+      "acronym": "NIAC",
+      "active": true,
+      "description": "The NASA Innovative Advanced Concepts (NIAC) Program nurtures visionary ideas that could transform future NASA missions with the creation of breakthroughs - radically better or entirely new aerospace concepts - while engaging America's innovators and entrepreneurs as partners in the journey. NIAC projects study innovative, technically credible, advanced concepts that could one day \"Change the Possible\" in aerospace. The program is run from NASA Headquarters, Space Technology Mission Directorate.",
+      "programId": 68,
+      "responsibleMd": {
+        "acronym": "STMD",
+        "canUserEdit": false,
+        "city": "",
+        "external": true,
+        "linkCount": 0,
+        "organizationId": 4875,
+        "organizationName": "Space Technology Mission Directorate",
+        "organizationType": "NASA_Mission_Directorate",
+        "naorganization": false,
+        "organizationTypePretty": "NASA Mission Directorate"
+      },
+      "responsibleMdId": 4875,
+      "stockImageFileId": 36657,
+      "title": "NASA Innovative Advanced Concepts"
+    },
+    "leadOrganization": {
+      "acronym": "HQ",
+      "canUserEdit": false,
+      "city": "Washington",
+      "country": {
+        "abbreviation": "US",
+        "countryId": 236,
+        "name": "United States"
+      },
+      "countryId": 236,
+      "external": false,
+      "linkCount": 0,
+      "organizationId": 4816,
+      "organizationName": "NASA Headquarters",
+      "organizationType": "NASA_Center",
+      "stateTerritory": {
+        "abbreviation": "DC",
+        "country": {
+          "abbreviation": "US",
+          "countryId": 236,
+          "name": "United States"
+        },
+        "countryId": 236,
+        "name": "District of Columbia",
+        "stateTerritoryId": 26
+      },
+      "stateTerritoryId": 26,
+      "naorganization": false,
+      "organizationTypePretty": "NASA Center"
+    },
+    "supportingOrganizations": [
+      {
+        "acronym": "JPL",
+        "canUserEdit": false,
+        "city": "Pasadena",
+        "country": {
+          "abbreviation": "US",
+          "countryId": 236,
+          "name": "United States"
+        },
+        "countryId": 236,
+        "external": false,
+        "linkCount": 0,
+        "organizationId": 4946,
+        "organizationName": "Jet Propulsion Laboratory",
+        "organizationType": "NASA_Center",
+        "stateTerritory": {
+          "abbreviation": "CA",
+          "country": {
+            "abbreviation": "US",
+            "countryId": 236,
+            "name": "United States"
+          },
+          "countryId": 236,
+          "name": "California",
+          "stateTerritoryId": 59
+        },
+        "stateTerritoryId": 59,
+        "naorganization": false,
+        "organizationTypePretty": "NASA Center"
+      },
+      {
+        "canUserEdit": false,
+        "city": "Tucson",
+        "country": {
+          "abbreviation": "US",
+          "countryId": 236,
+          "name": "United States"
+        },
+        "countryId": 236,
+        "external": true,
+        "linkCount": 0,
+        "organizationId": 2620,
+        "organizationName": "University of Arizona",
+        "organizationType": "Academia",
+        "stateTerritory": {
+          "abbreviation": "AZ",
+          "country": {
+            "abbreviation": "US",
+            "countryId": 236,
+            "name": "United States"
+          },
+          "countryId": 236,
+          "name": "Arizona",
+          "stateTerritoryId": 45
+        },
+        "stateTerritoryId": 45,
+        "naorganization": false,
+        "organizationTypePretty": "Academia"
+      }
+    ],
+    "coFundingPartners": [
+      {
+        "canUserEdit": false,
+        "city": "Laurel",
+        "country": {
+          "abbreviation": "US",
+          "countryId": 236,
+          "name": "United States"
+        },
+        "countryId": 236,
+        "external": true,
+        "linkCount": 0,
+        "organizationId": 3227,
+        "organizationName": "Johns Hopkins University",
+        "organizationType": "Academia",
+        "stateTerritory": {
+          "abbreviation": "MD",
+          "country": {
+            "abbreviation": "US",
+            "countryId": 236,
+            "name": "United States"
+          },
+          "countryId": 236,
+          "name": "Maryland",
+          "stateTerritoryId": 3
+        },
+        "stateTerritoryId": 3,
+        "naorganization": false,
+        "organizationTypePretty": "Academia"
+      },
+      {
+        "acronym": "SWRI",
+        "canUserEdit": false,
+        "city": "San Antonio",
+        "country": {
+          "abbreviation": "US",
+          "countryId": 236,
+          "name": "United States"
+        },
+        "countryId": 236,
+        "external": true,
+        "linkCount": 0,
+        "organizationId": 4848,
+        "organizationName": "Southwest Research Institute",
+        "organizationType": "Academia",
+        "stateTerritory": {
+          "abbreviation": "TX",
+          "country": {
+            "abbreviation": "US",
+            "countryId": 236,
+            "name": "United States"
+          },
+          "countryId": 236,
+          "name": "Texas",
+          "stateTerritoryId": 29
+        },
+        "stateTerritoryId": 29,
+        "naorganization": false,
+        "organizationTypePretty": "Academia"
+      }
+    ],
+    "statesWithWork": [
+      {
+        "abbreviation": "AZ",
+        "country": {
+          "abbreviation": "US",
+          "countryId": 236,
+          "name": "United States"
+        },
+        "countryId": 236,
+        "name": "Arizona",
+        "stateTerritoryId": 45
+      },
+      {
+        "abbreviation": "CA",
+        "country": {
+          "abbreviation": "US",
+          "countryId": 236,
+          "name": "United States"
+        },
+        "countryId": 236,
+        "name": "California",
+        "stateTerritoryId": 59
+      },
+      {
+        "abbreviation": "MD",
+        "country": {
+          "abbreviation": "US",
+          "countryId": 236,
+          "name": "United States"
+        },
+        "countryId": 236,
+        "name": "Maryland",
+        "stateTerritoryId": 3
+      }
+    ],
+    "lastUpdated": "2018-10-10",
+    "releaseStatusString": "Released",
+    "endDateString": "Mar 2014",
+    "startDateString": "Jul 2013"
+  }
+}

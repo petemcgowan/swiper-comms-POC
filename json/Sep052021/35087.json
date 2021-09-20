@@ -1,0 +1,61 @@
+{
+  "project": {
+    "id": 35087,
+    "lastUpdated": "2019-09-03",
+    "title": "Superconducting Antenna-Coupled Detectors and Readouts for Space-Borne CMB Polarimetry",
+    "status": "Completed",
+    "startDate": "Jan 2015",
+    "endDate": "Dec 2017",
+    "description": "<p>We propose to develop advanced, high-sensitivity millimeter-wave detector arrays for measuring the polarization of the cosmic microwave background (CMB). The arrays are based on planar antennas that provide beam collimation, polarization analysis, and spectral band definition in a compact lithographed format that eliminates discrete fore-optics such as lenses and feedhorns. The antennas are coupled to transition-edge superconducting bolometers, read out with multiplexed SQUID current amplifiers. This development is directed to advance the technology readiness of the Inflation Probe mission in NASA&#39;s Physics of the Cosmos program. The Inflation Probe is a fourth-generation CMB satellite that will measure the polarization of the CMB to astrophysical limits, characterizing the inflationary polarization signal, mapping large-scale structure based on polarization induced by gravitational lensing, and mapping Galactic magnetic fields through measurements of polarized dust emission. The inflationary polarization signal is produced by a background of gravitational waves from the epoch of inflation, an exponential expansion of space-time in the early universe, with an amplitude that depends on the physical mechanism producing inflation. The inflationary polarization signal may be distinguished by its unique &#39;B-mode&#39; vector properties from polarization from the density variations that predominantly source CMB temperature anisotropy. Our development is based previous SAT funding that developed detector array technology that has been successfully demonstrated in demanding ground-based and balloon-borne CMB experiments. We have fully tested complete arrays operating at 220 GHz, and developed new antennas for 40 and 270 GHz. We have also completed a wide-band antenna and diplexer suitable for multi-band operations. We have developed a focal plane sub-array assembly that enables modular testing and replacement for making large focal planes. Detector arrays recently flew on the SPIDER long-duration balloon experiment for characterizing the effects of cosmic rays on the detectors. We propose to develop new capabilities appropriate for space operation, leveraging demonstration on sub-orbital platforms where possible. We will develop arrays of wide-band 250 GHz detectors optimized for sensitive measurements of polarized Galactic dust emission from ground-based and sub-orbital platforms. We will extend the operation of antennas to higher frequencies with the development of an antenna for 350 GHz. We will develop a high-density detector module assembly that enables a densely sampled focal plane at 250 GHz, which also provides higher detector count in upcoming experiments. We will measure the RF susceptibility of a focal plane array, and study potential improvements using a high-pass edge filter. We will measure the low-level integrated spillover of highly tapered antennas appropriate for a passively-cooled reflecting space telescope, and complete full beam-line particle testing of wafers designed to mitigate cosmic ray events in the detector frame. Finally we will determine the uniformity of deposition equipment at JPL for scaling up to 150 mm wafer production.</p>",
+    "technologyMaturityStart": "3",
+    "technologyMaturityCurrent": "3",
+    "technologyMaturityEnd": "4",
+    "destinations": ["Outside the Solar System"],
+    "responsibleProgram": "Strategic Astrophysics Technology",
+    "responsibleMissionDirectorateOrOffice": "Science Mission Directorate",
+    "workLocations": ["California"],
+    "programDirectors": ["Mario Perez"],
+    "programManagers": ["Mario Perez"],
+    "principalInvestigators": ["James J Bock"],
+    "coInvestigators": [
+      "Anthony Turner",
+      "Alexis Weber",
+      "Lorenzo Moncelsi",
+      "Karen R Piggee",
+      "Jeffrey P Filippini",
+      "Roger Obrient"
+    ],
+    "libraryItems": [],
+    "supportingOrganizations": [
+      {
+        "name": "California Institute of Technology",
+        "type": "Academic",
+        "acronym": null,
+        "city": "Pasadena",
+        "state": "CA",
+        "country": "United States"
+      }
+    ],
+    "primaryTas": [
+      {
+        "id": 10739,
+        "code": "TX08",
+        "title": "Sensors and Instruments",
+        "priority": null
+      },
+      {
+        "id": 10740,
+        "code": "TX08.1",
+        "title": "Remote Sensing Instruments/Sensors",
+        "priority": null
+      },
+      {
+        "id": 10741,
+        "code": "TX08.1.1",
+        "title": "Detectors and Focal Planes",
+        "priority": null
+      }
+    ],
+    "additionalTas": []
+  }
+}

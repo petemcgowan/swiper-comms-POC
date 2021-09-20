@@ -1,0 +1,118 @@
+{
+  "libraryItems": [
+    {
+      "file": {
+        "fileExtension": "pdf",
+        "fileId": 37417,
+        "fileName": "briefchart",
+        "fileSize": 375333,
+        "objectId": 52365,
+        "objectType": {
+          "lkuCodeId": 889,
+          "code": "LIBRARY_ITEMS",
+          "description": "Library Items",
+          "lkuCodeTypeId": 182,
+          "lkuCodeType": {
+            "codeType": "OBJECT_TYPE",
+            "description": "Object Type"
+          }
+        },
+        "objectTypeId": 889
+      },
+      "files": [
+        {
+          "fileExtension": "pdf",
+          "fileId": 37417,
+          "fileName": "briefchart",
+          "fileSize": 375333,
+          "objectId": 52365,
+          "objectType": {
+            "lkuCodeId": 889,
+            "code": "LIBRARY_ITEMS",
+            "description": "Library Items",
+            "lkuCodeTypeId": 182,
+            "lkuCodeType": {
+              "codeType": "OBJECT_TYPE",
+              "description": "Object Type"
+            }
+          },
+          "objectTypeId": 889
+        }
+      ],
+      "id": 52365,
+      "title": "Briefing Chart",
+      "libraryItemTypeId": 1222,
+      "projectId": 18254,
+      "primary": false,
+      "publishedDateString": "",
+      "contentType": {
+        "lkuCodeId": 1222,
+        "code": "DOCUMENT",
+        "description": "Document",
+        "lkuCodeTypeId": 341,
+        "lkuCodeType": {
+          "codeType": "LIBRARY_ITEM_TYPE",
+          "description": "Library Item Type"
+        }
+      }
+    },
+    {
+      "caption": "INNOVATIVE NON-CONTACT METROLOGY SOLUTIONS FOR LARGE OPTICAL TELESCOPES Project Image",
+      "file": {
+        "fileExtension": "png",
+        "fileId": 4733,
+        "fileName": "SBIR_2014_1_BC_S2.04-9255",
+        "fileSize": 373481,
+        "objectId": 5012,
+        "objectType": {
+          "lkuCodeId": 889,
+          "code": "LIBRARY_ITEMS",
+          "description": "Library Items",
+          "lkuCodeTypeId": 182,
+          "lkuCodeType": {
+            "codeType": "OBJECT_TYPE",
+            "description": "Object Type"
+          }
+        },
+        "objectTypeId": 889
+      },
+      "files": [
+        {
+          "fileExtension": "png",
+          "fileId": 4733,
+          "fileName": "SBIR_2014_1_BC_S2.04-9255",
+          "fileSize": 373481,
+          "objectId": 5012,
+          "objectType": {
+            "lkuCodeId": 889,
+            "code": "LIBRARY_ITEMS",
+            "description": "Library Items",
+            "lkuCodeTypeId": 182,
+            "lkuCodeType": {
+              "codeType": "OBJECT_TYPE",
+              "description": "Object Type"
+            }
+          },
+          "objectTypeId": 889
+        }
+      ],
+      "id": 5012,
+      "title": "Project Image",
+      "description": "INNOVATIVE NON-CONTACT METROLOGY SOLUTIONS FOR LARGE OPTICAL TELESCOPES Project Image",
+      "libraryItemTypeId": 1095,
+      "projectId": 18254,
+      "primary": true,
+      "publishedDateString": "",
+      "contentType": {
+        "lkuCodeId": 1095,
+        "code": "IMAGE",
+        "description": "Image",
+        "lkuCodeTypeId": 341,
+        "lkuCodeType": {
+          "codeType": "LIBRARY_ITEM_TYPE",
+          "description": "Library Item Type"
+        }
+      }
+    }
+  ]
+}

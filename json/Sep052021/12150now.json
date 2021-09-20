@@ -1,0 +1,263 @@
+{
+  "project": {
+    "projectId": 12150,
+    "title": "Sub-Scale Re-entry Capsule Drop via High Altitude Balloons",
+    "primaryTaxonomyNodes": [
+      {
+        "taxonomyNodeId": 10765,
+        "taxonomyRootId": 8816,
+        "parentNodeId": 10764,
+        "level": 3,
+        "code": "TX09.2.1",
+        "title": "Aerodynamic Decelerators",
+        "definition": "Aerodynamic decelerators are deployable descent system components that generate aerodynamic forces on the spacecraft, principally drag for deceleration, and lift for guidance and control. Parachutes or parafoils are traditionally employed for this purpose, but other deployable or inflatable devices, attached or trailing, may scale more effectively to higher mass missions.",
+        "exampleTechnologies": "Supersonic Inflatable Aerodynamic Decelerator (SIAD); mechanically deployed decelerators and methods of active control; steerable and guided deployable decelerators; dual-mode attached decelerator systems; ballutes",
+        "hasChildren": false,
+        "hasInteriorContent": true
+      }
+    ],
+    "startTrl": 3,
+    "endTrl": 6,
+    "benefits": "<p> \tEntry, Descent, and Landing (EDL) technologies have long been identified as one of the critical, highest risk components of an eventual Human Mission to Mars. Mars Design Reference Architecture (DRA) and EDL Systems Analysis studies have shown the mid L/D rigid aeroshell to be one of the leading candidate platforms to enable this mission. Currently this technology and capability in the Agency is not funded. We propose to develop an incremental EDL capability which will enable payload return and entry testbed capability for the eventual development of large mass Mars entry designs. This initial development effort will provide training in systems engineering, aerodynamics, GN&amp;C, recovery systems, and hardware integration in a rapid development project.</p> </p>",
+    "description": "<p>The project objective is to develop and test a sub-scale version of the Maraia Entry Capsule on a high altitude balloon. The capsule is released at 100,000 ft. The freefall portion of flight is used to provide data on the subsystems, dynamics and aerodynamics of the vehicle shape. A parachute is deployed prior to soft touchdown. The test utilizes a prototype parachute and deployment system for the full scale Maraia Capsule.<p/><p>High-altitude balloon flights are an inexpensive method used to lift payloads to high altitudes. Federal Aviation Administration (FAA) regulations permit payloads of up to 6 lbs without requiring any waivers or special permissions. Using such a balloon flight capability, the Rocket University program at Kennedy Space Center (KSC) has collaborated with the Johnson Space Center (JSC) to perform test flights of a sub-scale version of the Maraia Entry Capsule. The Maraia Capsule is envisioned as an entry technology testbed that could be adapted to return small payloads (10-100's of kg) from the International Space Station (ISS) or from beyond Low-Earth Orbit (LEO) destinations. The main test objective is to gain insight into the aerodynamic and dynamic properties of the capsule in the subsonic regime. The capsule has been scaled accordingly, resulting in a test article 10\" in diameter by approximately 6.5\" tall at the 6 lb weight limit. Secondary test objectives include testing subsystems (e.g. avionics, parachutes, and guidance, navigation, and control (GN&C) subsystems) planned for use in future larger scale flights, as well as training and gaining overall experience in all aspects of designing, developing, and testing spaceflight systems. A priori winds and trajectory predictions are used to determine a launch location such that the trajectory and predicted landing location is desirable for safety and recovery purposes. The balloon is filled on the ground and payload lines are laid along the predominant ground wind direction. The system is launched from a large open area in order to minimize the risk of entanglement and jerking of the lines and payloads. The balloon ascends for one to two hours, depending on payload mass and fill volume. Once above an altitude of 70,000 ft, a release command is issued when trajectory predictions show that the capsule will land within the landing zone (or when they are closest to the zone, based on real-time trends). The capsule descends in freefall to 50,000 ft, at which point an autonomous command is sent to deploy the parachute. The ground operator may also manually issue a parachute deploy command at any time. The capsule then descends and lands, with an approximate terminal velocity of 38 ft/s. A separate release command is issued for the Rocket University payload, which contains its own avionics, when landing predictions are such that it is desirable for the payload to separate from the balloon and land. (Note: on Flight #1, this command was issued simultaneously for both payloads. Future flights will permit separate commands for better control of payload landing locations). The parachute system for the Rocket University payload is an inline, pre-deployed system that inflates as the payload descends. The balloon then ascends (now more quickly, with less payload attached) and bursts at (very approximately) 115,000 ft, and is not recovered. The subscale Maraia Capsule includes avionics, a parachute deployment system, communications, power, a global positioning system (GPS) / inertial navigation system (INS) sensor, a GoPro camera, a flight processor, and a data recorder. A barometric altimeter is being added for Flight #2. A number of blog websites and YouTube videos have been posted on the web of other groups and individuals performing high-altitude balloon flights. However, NASA's effort is unique because it is pushing the envelope on small high-altitude balloon flights in a few different ways. First, Rocket University has developed an avionics platform that will fly on large-scale balloon flights, unmanned aerial vehicles (UAVs), and rockets. Second, Rocket University's approach of using telemetered and recorded GPS, inertial measurement unit (IMU), altimeter, and video data is much more advanced than the typical hobbyist's approach of using a cell phone / camera combination tracked via the web. Additionally, this capsule uses a parachute deploy system originally modified from a typical rocketry system using black powder to one using a commanded servo/pin/spring combination, in order to reduce the hazard associated with explosives. Finally, this capsule is a prototype for a potential sample return capsule designed to bring back samples from the ISS, an asteroid, the Moon, or Mars.</p>",
+    "startYear": 2011,
+    "startMonth": 10,
+    "endYear": 2012,
+    "endMonth": 9,
+    "statusDescription": "Completed",
+    "principalInvestigators": [
+      {
+        "contactId": 412372,
+        "firstName": "Ronald",
+        "lastName": "Sostaric",
+        "fullName": "Ronald R Sostaric",
+        "fullNameInverted": "Sostaric, Ronald R",
+        "middleInitial": "R",
+        "primaryEmail": "ronald.r.sostaric@nasa.gov",
+        "publicEmail": true,
+        "nacontact": false
+      }
+    ],
+    "programDirectors": [
+      {
+        "contactId": 335305,
+        "firstName": "Michael",
+        "lastName": "Lapointe",
+        "fullName": "Michael R Lapointe",
+        "fullNameInverted": "Lapointe, Michael R",
+        "middleInitial": "R",
+        "primaryEmail": "michael.r.lapointe@nasa.gov",
+        "publicEmail": true,
+        "nacontact": false
+      }
+    ],
+    "programExecutives": [
+      {
+        "contactId": 392233,
+        "firstName": "Richard",
+        "lastName": "Howard",
+        "fullName": "Richard W Howard",
+        "fullNameInverted": "Howard, Richard W",
+        "middleInitial": "W",
+        "primaryEmail": "richard.w.howard@nasa.gov",
+        "publicEmail": true,
+        "nacontact": false
+      }
+    ],
+    "programManagers": [
+      {
+        "contactId": 62108,
+        "firstName": "Carlos",
+        "lastName": "Westhelle",
+        "fullName": "Carlos H Westhelle",
+        "fullNameInverted": "Westhelle, Carlos H",
+        "middleInitial": "H",
+        "primaryEmail": "carlos.h.westhelle@nasa.gov",
+        "publicEmail": true,
+        "nacontact": false
+      }
+    ],
+    "projectManagers": [
+      {
+        "contactId": 412372,
+        "firstName": "Ronald",
+        "lastName": "Sostaric",
+        "fullName": "Ronald R Sostaric",
+        "fullNameInverted": "Sostaric, Ronald R",
+        "middleInitial": "R",
+        "primaryEmail": "ronald.r.sostaric@nasa.gov",
+        "publicEmail": true,
+        "nacontact": false
+      }
+    ],
+    "libraryItems": [
+      {
+        "caption": "Project Image   Sub-Scale Re-entry Capsule Drop via High Altitude Balloons",
+        "file": {
+          "fileExtension": "jpg",
+          "fileId": 2306,
+          "fileName": "12150-1379607056286",
+          "fileSize": 82775,
+          "objectId": 1023,
+          "objectType": {
+            "lkuCodeId": 889,
+            "code": "LIBRARY_ITEMS",
+            "description": "Library Items",
+            "lkuCodeTypeId": 182,
+            "lkuCodeType": {
+              "codeType": "OBJECT_TYPE",
+              "description": "Object Type"
+            }
+          },
+          "objectTypeId": 889
+        },
+        "files": [
+          {
+            "fileExtension": "jpg",
+            "fileId": 2306,
+            "fileName": "12150-1379607056286",
+            "fileSize": 82775,
+            "objectId": 1023,
+            "objectType": {
+              "lkuCodeId": 889,
+              "code": "LIBRARY_ITEMS",
+              "description": "Library Items",
+              "lkuCodeTypeId": 182,
+              "lkuCodeType": {
+                "codeType": "OBJECT_TYPE",
+                "description": "Object Type"
+              }
+            },
+            "objectTypeId": 889
+          }
+        ],
+        "id": 1023,
+        "title": "12150-1379607056286.jpg",
+        "description": "Project Image   Sub-Scale Re-entry Capsule Drop via High Altitude Balloons",
+        "libraryItemTypeId": 1095,
+        "projectId": 12150,
+        "primary": true,
+        "publishedDateString": "",
+        "contentType": {
+          "lkuCodeId": 1095,
+          "code": "IMAGE",
+          "description": "Image",
+          "lkuCodeTypeId": 341,
+          "lkuCodeType": {
+            "codeType": "LIBRARY_ITEM_TYPE",
+            "description": "Library Item Type"
+          }
+        }
+      }
+    ],
+    "primaryImage": {
+      "file": { "fileExtension": "jpg", "fileId": 2306 },
+      "id": 1023,
+      "description": "Project Image   Sub-Scale Re-entry Capsule Drop via High Altitude Balloons",
+      "projectId": 12150,
+      "publishedDateString": ""
+    },
+    "responsibleMd": {
+      "acronym": "STMD",
+      "canUserEdit": false,
+      "city": "",
+      "external": true,
+      "linkCount": 0,
+      "organizationId": 4875,
+      "organizationName": "Space Technology Mission Directorate",
+      "organizationType": "NASA_Mission_Directorate",
+      "naorganization": false,
+      "organizationTypePretty": "NASA Mission Directorate"
+    },
+    "program": {
+      "acronym": "JSC CIF",
+      "active": true,
+      "description": "<p>JSC provides and applies its preeminent capabilities in science and technology to develop, operate, and integrate human exploration missions. &nbsp;The Center encourages collaboration with aerospace and non-aerospace industries, government agencies, and academia to solve science and technology challenges, while actively striving to maximize technology transfer into the commercial sector. &nbsp;</p><p>An active and sustainable science and technology development program is key to ensuring the challenges of human exploration are successfully overcome. The JSC-directed solicitations program enables the Center to invest strategically in high priority areas needed to accomplish future missions as articulated in the NASA Technology Roadmaps and the Space Technology Investment Plan (STIP). It offers the Center the ability to address technology gaps that are beyond the requirements of near-term programs to fund.&nbsp; It also provides a platform to continue to grow and maintain critical skills and innovations needed to ensure future mission success.&nbsp; These solicitations encourage use of collaborations to ensure maximum benefit to both the space program and the nation.&nbsp; As such, external partnerships are highly encouraged not only as a funding leverage but to bring innovative ideas and approaches into human exploration programs.</p><p><em>Selection Process</em></p><p>Typically, JSC solicitations are developed by the JSC CTO and the JSC Technology Working Group (JTWG). The competitive calls are coordinated with JSC Senior Staff and communicated to the JSC workforce via internal email distribution to an R&amp;D community list and through postings on the internal center website and through JSC Today notices.<br /><br />The JTWG solicits, evaluates and prioritizes all JSC solicitation responses in a two-stage process. The JTWG members review project proposals and work together to down-select to the finalists. The Principal Investigators (PIs) make presentations to the JTWG to provide more in-depth project details. This allows the members to select the finalists to support for the year.&nbsp; Selection criteria and funding vary based on the focus of the solicitation but of primary interest are:</p><ul><li>Human Space Flight Architecture Team (HAT) prioritized technology needs</li><li>Priority JSC technology core competencies</li><li>High potential areas for technology commercialization</li><li>High potential areas for technology partnerships</li></ul><p><em>Project Accomplishments</em></p><p>Through the result of research and development, JSC&rsquo;s IR&amp;D project PIs are making important progress in the advancement of technology needed to enable NASA&rsquo;s mission of space exploration. In addition, many of the technologies development to meet the challenges of space exploration have great commercialization potential. Each year, many of JSC&rsquo;s IR&amp;D projects file New Technology Reports (NTRs) through the JSC Tech Transfer Office. Several of these reports have received New Technology Evaluation Patent ratings to pursue patents, while additional ones have been scheduled for success story articles to be written and published.&nbsp;</p><p>JSC projects active in FY12 and beyond have been included in TechPort. Through the TechPort tool information on the projects is provided and will be updated by PIs as developments and updates become available. This will offer further knowledge and information sharing between NASA developers, researchers, engineers and scientists and other internal and external stakeholders.</p> <p>The JSC Chief Technologist Office (CTO) sponsors one or more Independent Research &amp; Development (IR&amp;D) solicitations throughout each year depending on available funds.&nbsp; These local solicitations primarily use a blend of Agency Center Innovation Fund (CIF) and the JSC Center Investment Account (CIA) funds to stimulate and encourage technology development, creativity, and innovation.&nbsp; The objective is to address the technology needs of the Agency as well as the nation. For these reasons, funds distributed to JSC support emerging technologies and creative initiatives that leverage the Center&rsquo;s talent pool and unique capabilities. Scientists and engineers across the Center lead projects and establish partnerships between other centers, agencies, research laboratories, academic institutions and private industries.&nbsp;</p>",
+      "parentProgram": {
+        "acronym": "CIF",
+        "active": true,
+        "description": "<p>Through the Center Innovation Fund, the Space Technology Mission Directorate allocates a small portion of the NASA workforce and procurement budget to internal research and development to feed early stage innovation in technology and exploration.&nbsp;Activities with in the Center Innovation Fund are proposed and led by NASA scientists and engineers. &nbsp;These activities and creative initiatives pursue emerging technologies that leverage talent and capabilities at the NASA Centers.</p><p>&nbsp;</p><p>&nbsp;</p>",
+        "programId": 64,
+        "responsibleMd": {
+          "acronym": "STMD",
+          "canUserEdit": false,
+          "city": "",
+          "external": true,
+          "linkCount": 0,
+          "organizationId": 4875,
+          "organizationName": "Space Technology Mission Directorate",
+          "organizationType": "NASA_Mission_Directorate",
+          "naorganization": false,
+          "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "responsibleMdId": 4875,
+        "stockImageFileId": 36643,
+        "title": "Center Innovation Fund"
+      },
+      "parentProgramId": 64,
+      "programId": 165,
+      "responsibleMd": {
+        "acronym": "STMD",
+        "canUserEdit": false,
+        "city": "",
+        "external": true,
+        "linkCount": 0,
+        "organizationId": 4875,
+        "organizationName": "Space Technology Mission Directorate",
+        "organizationType": "NASA_Mission_Directorate",
+        "naorganization": false,
+        "organizationTypePretty": "NASA Mission Directorate"
+      },
+      "responsibleMdId": 4875,
+      "stockImageFileId": 36649,
+      "title": "Center Innovation Fund: JSC CIF"
+    },
+    "leadOrganization": {
+      "acronym": "JSC",
+      "canUserEdit": false,
+      "city": "Houston",
+      "country": {
+        "abbreviation": "US",
+        "countryId": 236,
+        "name": "United States"
+      },
+      "countryId": 236,
+      "external": false,
+      "linkCount": 0,
+      "organizationId": 4853,
+      "organizationName": "Johnson Space Center",
+      "organizationType": "NASA_Center",
+      "stateTerritory": {
+        "abbreviation": "TX",
+        "country": {
+          "abbreviation": "US",
+          "countryId": 236,
+          "name": "United States"
+        },
+        "countryId": 236,
+        "name": "Texas",
+        "stateTerritoryId": 29
+      },
+      "stateTerritoryId": 29,
+      "naorganization": false,
+      "organizationTypePretty": "NASA Center"
+    },
+    "statesWithWork": [
+      {
+        "abbreviation": "TX",
+        "country": {
+          "abbreviation": "US",
+          "countryId": 236,
+          "name": "United States"
+        },
+        "countryId": 236,
+        "name": "Texas",
+        "stateTerritoryId": 29
+      }
+    ],
+    "lastUpdated": "2018-10-10",
+    "releaseStatusString": "Released",
+    "endDateString": "Sep 2012",
+    "startDateString": "Oct 2011"
+  }
+}

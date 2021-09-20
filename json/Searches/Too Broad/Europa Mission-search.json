@@ -1,0 +1,1001 @@
+{
+  "projects": [
+    {
+      "projectId": 92064,
+      "title": "Microfluidic Chemical Analyzer for the Planned Europa Flyby Mission or a Potential Europa Lander"
+    },
+    {
+      "projectId": 95806,
+      "title": "In-situ Spectroscopic Europa Explorer (iSEE)"
+    },
+    {
+      "projectId": 94819,
+      "title": "Using TRN/Hazard Imaging Lidar for Applied Science on Future Missions (Moon, Europa, Mars)"
+    },
+    {
+      "projectId": 95809,
+      "title": "Electronic Life-detection Instrument for Enceladus/Europa (ELIE)"
+    },
+    { "projectId": 91736, "title": "Europa Kinetic Ice Penetrator" },
+    {
+      "projectId": 92288,
+      "title": "Seismometers for Exploring the Subsurface of Europa (SESE)"
+    },
+    { "projectId": 93472, "title": "Europa Drum Sampler (EDuS), Phase I" },
+    {
+      "projectId": 92301,
+      "title": "Cold-Lightweight Imagers for Europa (C-LIFE)"
+    },
+    {
+      "projectId": 89702,
+      "title": "In-situ Spectroscopic Europa Explorer (ISEE), Phase I"
+    },
+    { "projectId": 93764, "title": "SLUSH: Europa Hybrid Deep Drill, Phase I" },
+    {
+      "projectId": 88352,
+      "title": "RISE-UP: Ross Ice Shelf and Europa Underwater Probe"
+    },
+    {
+      "projectId": 96175,
+      "title": "Dual Desalination/Concentrator Microfluidic Device for Amino Acid Sample Preparation for Search-For-Life Missions"
+    },
+    {
+      "projectId": 11923,
+      "title": "Ion Mass Spectrometer for Heliospheric Missions"
+    },
+    {
+      "projectId": 94048,
+      "title": "Predicting deformation and stress as a function of additive manufacturing process parameters for Europa drill"
+    },
+    {
+      "projectId": 94725,
+      "title": "Radiation-Hardened CubeSat Power Management & Distribution (PMAD) for Europa Environment, Phase I"
+    },
+    {
+      "projectId": 91916,
+      "title": "Advanced microcalorimeter arrays for next-generation x-ray missions"
+    },
+    {
+      "projectId": 92776,
+      "title": "Plumbing Europa: A magnetotelluric sounder to characterize water layers and habitability within the ice shell of an ocean world"
+    },
+    {
+      "projectId": 90753,
+      "title": "Development of Planetary Protection Technologies for Special Region Missions"
+    },
+    {
+      "projectId": 9672,
+      "title": "SiGe 130 nm-based Rad-Hard ADC for the JEO Mission, Phase I"
+    },
+    {
+      "projectId": 8843,
+      "title": "Incorporating High-Speed, Optimizing, Interleaving, Configurable/Composable Scheduling into NASAs EUROPA Planning Architecture, Phase I"
+    },
+    {
+      "projectId": 18163,
+      "title": "Integrated Modeling, Analysis, and Verification for Space Missions, Phase I"
+    },
+    {
+      "projectId": 90765,
+      "title": "Rapid Mission Design for Dynamically Complex Environments"
+    },
+    {
+      "projectId": 91662,
+      "title": "SCEPS In Space - Non-Radioisotope Power Systems for Sunless Solar System Exploration Missions (Phase II)"
+    },
+    {
+      "projectId": 96540,
+      "title": "Detection of Organics by Gas Chromatography/Gas Phase Fluorescence (GC/GPF)"
+    },
+    {
+      "projectId": 96531,
+      "title": "Bubble-based Ocean-worlds Organics Sample Trap (BOOST)"
+    },
+    {
+      "projectId": 96541,
+      "title": "A feasibility study of Raman optical activity for the detection and discrimination of chiral biological compounds for planetary science instrumentation"
+    },
+    {
+      "projectId": 96140,
+      "title": "Traction Optimization of a Planetary Rover via Control of a Flywheel Energy Storage Module"
+    },
+    {
+      "projectId": 95667,
+      "title": "Dynamics of Low Velocity Landings on Moons of the Outer Solar System"
+    },
+    {
+      "projectId": 96496,
+      "title": "Adapting the Compact Integrated Raman Spectrometer (CIRS) for Lunar Exploration"
+    },
+    {
+      "projectId": 96605,
+      "title": "Additively Manufactured Titanium Solid Rocket Motor Cases"
+    },
+    {
+      "projectId": 95805,
+      "title": "Maturation of a Hypertunable IR Laser Spectrometer for In Situ Planetary Exploration"
+    },
+    {
+      "projectId": 96157,
+      "title": "Sensitive end-effector design for spiny attachment onto frangible substrates in extreme underwater environments"
+    },
+    {
+      "projectId": 92287,
+      "title": "Europan Molecular Indicators of Life Investigation"
+    },
+    {
+      "projectId": 95627,
+      "title": "Feature-Based Visual SLAM For Shadowed, Specular, and Hazy Environments"
+    },
+    { "projectId": 91408, "title": "Ultra Low Temperature Batteries (ULTB)" },
+    { "projectId": 88515, "title": "Nano Icy Moons Propellant Harvester " },
+    {
+      "projectId": 93463,
+      "title": "Electro-Kinetic Ice Gun for Frozen Ice Plume Simulations, Phase I"
+    },
+    { "projectId": 91376, "title": "Intelligent Landing System (ILS)" },
+    { "projectId": 91630, "title": "Ultra Low Temperature Electronics (ULTE)" },
+    {
+      "projectId": 95559,
+      "title": "Novel Dynamical Analysis of Spacecraft Operating in Close Proximity to Active Comets"
+    },
+    {
+      "projectId": 96133,
+      "title": "SPEAR Probe - An Ultra Lightweight Nuclear Electric Propulsion Probe for Deep Space Exploration"
+    },
+    {
+      "projectId": 92777,
+      "title": "Micro Fabricated Optical Seismometer \"FROSTY\""
+    },
+    {
+      "projectId": 92761,
+      "title": "Miniature Absolute Scalar Magnetometer for Resource-Constrained Solar System Body Exploration"
+    },
+    {
+      "projectId": 91342,
+      "title": "Soft-Robotic Rover with Electrodynamic Power Scavenging"
+    },
+    {
+      "projectId": 95799,
+      "title": "Ion/Liquid Chromatography for Exploration of Solar System (ILCESS)"
+    },
+    {
+      "projectId": 92773,
+      "title": "Advanced Spacecraft Technologies to Explore the Ocean Worlds for the Detection of Extant Life"
+    },
+    {
+      "projectId": 15242,
+      "title": "Solving Fundamental Technical Challenges toward a Space-qualified Miniature Absolute Scalar Magnetometer"
+    },
+    {
+      "projectId": 15890,
+      "title": "Exploration Architecture with Quantum Inertial Gravimetry and In Situ ChipSat Sensors"
+    },
+    {
+      "projectId": 95812,
+      "title": "Elastic wave analyzer for icy sub-surfaces (EWAIS) in the solar system"
+    },
+    { "projectId": 92282, "title": "Ocean Worlds Lander Imager" },
+    {
+      "projectId": 4243,
+      "title": "Automated Trajectory Design Using Resonant Dynamics"
+    },
+    {
+      "projectId": 8488,
+      "title": "Thermopile Detector Radiation Hardened Readout, Phase I"
+    },
+    {
+      "projectId": 9122,
+      "title": "Radiation-Tolerant Vertical-Cavity Amplifying Detectors for Time-of-Flight Laser Rangefinders, Phase I"
+    },
+    { "projectId": 13670, "title": "Bulk Metallic Glass Gears" },
+    { "projectId": 96572, "title": "Lasing without Gain Inertial Sensors" },
+    {
+      "projectId": 95808,
+      "title": "Compact, Robust Spatial Heterodyne Raman Spectrometer for Planetary Exploration"
+    },
+    {
+      "projectId": 96497,
+      "title": "LASVEGAS on the Moon: A Hypertunable IR laser Spectrometer for the Analysis of Volatiles"
+    },
+    {
+      "projectId": 94421,
+      "title": "A millimeter/submillimeter heterodyne sensor for spectroscopy and imaging of cold planetary objects in the outer solar system"
+    },
+    { "projectId": 96192, "title": "Systemic Autonomy for Robotic Explorers" },
+    {
+      "projectId": 95810,
+      "title": "Terahertz heterodyne spectral imager of planets and comets"
+    },
+    {
+      "projectId": 95817,
+      "title": "In-Situ Organic Extraction, Separation and Detection using Supercritical CO2 and Superheated Water"
+    },
+    {
+      "projectId": 95800,
+      "title": "Water Hunting Advanced Terahertz Spectrometer on a Ultra-small Platform (WHATSUP)"
+    },
+    {
+      "projectId": 13729,
+      "title": "Dual-mode Propulsion System Enabling CubeSat Exploration of the Solar System"
+    },
+    {
+      "projectId": 92293,
+      "title": "LIfE: Luminescence Imager for Exploration"
+    },
+    {
+      "projectId": 94114,
+      "title": "Safe & Precise Landing Integrated Capabilities Evolution"
+    },
+    { "projectId": 94672, "title": "Millimeter Scale Magnetometer, Phase I" },
+    {
+      "projectId": 16820,
+      "title": "Advanced Low Temperature Thermoelectric Materials for Cryogenic Power Generation"
+    },
+    {
+      "projectId": 92291,
+      "title": "Sample Processor for Life on Icy Worlds (SPLIce)"
+    },
+    {
+      "projectId": 94902,
+      "title": "SLUSH: Thermo-Mechanical Deep Drilling System for Ocean Worlds and Mars"
+    },
+    {
+      "projectId": 19071,
+      "title": "The Search for Extra-Terrestrial Genomes (SETG)"
+    },
+    {
+      "projectId": 9349,
+      "title": "Rad-Hard and ULP FPGA with \"Full\" Functionality, Phase II"
+    },
+    {
+      "projectId": 93602,
+      "title": "Liquid Interface Diffusion Bonding of FPS Heat Pipes to Core, Phase II"
+    },
+    {
+      "projectId": 93739,
+      "title": "Robust, Low SWAP Planetary Entry, Descent and Landing System, Phase II"
+    },
+    {
+      "projectId": 92911,
+      "title": "Developing a JPL Planetary Mass Spectrometer"
+    },
+    { "projectId": 91384, "title": "Mobility and Sensing Technology (MST)" },
+    {
+      "projectId": 93301,
+      "title": "Qualified Electronics for Extreme Cold Environment"
+    },
+    {
+      "projectId": 88439,
+      "title": "Microfluidic Ion Analyzer for Astrobiological Studies"
+    },
+    {
+      "projectId": 91540,
+      "title": "Icy-Moon Cryo Environment Penetrating Ice Claw "
+    },
+    {
+      "projectId": 88486,
+      "title": "Exploration of Extreme Terrain Using a Polyhedral Rover"
+    },
+    {
+      "projectId": 91595,
+      "title": "Total Dose Regeneration of COTS Using a Thermally Controlled Packaging Approach"
+    },
+    {
+      "projectId": 93853,
+      "title": "As Needed Radiation Shielding - System In Package Radiation Shielding"
+    },
+    {
+      "projectId": 33259,
+      "title": "Large Area Silicon Carbide Photodiode Active Pixel Sensor, Phase I"
+    },
+    {
+      "projectId": 92060,
+      "title": "Radar Sounding and Propagation through Heterogeneous Media"
+    },
+    {
+      "projectId": 92664,
+      "title": "\"Compact Color Biofinder\" for fast, non-contact detection of bio-markers, biomolecules and polyaromatic hydrocarbons in Ocean Worlds"
+    },
+    {
+      "projectId": 33684,
+      "title": "Radiation-Hard Ka-Band Power Amplifier for CubeSats, Phase I"
+    },
+    {
+      "projectId": 34020,
+      "title": "Extreme Environment Electronics based on Silicon Carbide, Phase I"
+    },
+    {
+      "projectId": 18395,
+      "title": "Detectors with Improved Near-to-Mid IR Performance and Reduced Cooling Requirements, Phase I"
+    },
+    {
+      "projectId": 94683,
+      "title": "Multimodal Agile Ranging and Velocimetry INstrument, Phase I"
+    },
+    {
+      "projectId": 12867,
+      "title": "Radiation-Hardened HDTV Sensors, Phase II"
+    },
+    {
+      "projectId": 9424,
+      "title": "High Performance ADC for Reconfigurable/Reprogrammable Communication Systems, Phase I"
+    },
+    {
+      "projectId": 5930,
+      "title": "Photonic Crystal Fiber-Based High Sensitivity Gas Sensor, Phase I"
+    },
+    {
+      "projectId": 11541,
+      "title": "Autonomous Phase-Space Mapping and Navigation for Spacecraft Operations in Extreme Orbital Environments"
+    },
+    {
+      "projectId": 92757,
+      "title": "The DEEP Project: DEtecting Extraterrestrial Piezophiles in Ocean World Analogs"
+    },
+    {
+      "projectId": 14042,
+      "title": "MAHRS: A simple instrument suite to characterize weathering and the habitability of the shallow martian subsurface"
+    },
+    {
+      "projectId": 92786,
+      "title": "Microfluidic Wet Chemistry Laboratory (mWCL) for Assessing Habitability of Ocean Worlds by Analysis of Surface or Plume Samples"
+    },
+    {
+      "projectId": 25572,
+      "title": "Auto-Gopher2: Autonomous Wireline Core and Cutting Acquisition Probe for Deep Penetration and Sampling of Bodies in the Solar System."
+    },
+    {
+      "projectId": 9365,
+      "title": "Monolithically integrated AlN/GaN electronics for harsh environments, Phase I"
+    },
+    {
+      "projectId": 94110,
+      "title": "Development of an X-ray tube for planetary instruments"
+    },
+    {
+      "projectId": 11540,
+      "title": "A Hybrid Systems Strategy to Support Autonomous Spacecraft Trajectory Design and Optimization in Multiple Dynamical Regimes"
+    },
+    {
+      "projectId": 92665,
+      "title": "Development of a Prototype for the Thermal Infrared Composite Imaging Spectrometer instrument"
+    },
+    {
+      "projectId": 12877,
+      "title": "Extreme Environment Hybrid Gearbox Technology, Phase II"
+    },
+    {
+      "projectId": 9055,
+      "title": "Radiation Mitigation Methods for Advanced Readout Array, Phase I"
+    },
+    {
+      "projectId": 93214,
+      "title": "Raman Life Detection Instrument Development for Icy Worlds"
+    },
+    {
+      "projectId": 10548,
+      "title": "MEMS Shutter for Spectrometer Calibration"
+    },
+    {
+      "projectId": 8980,
+      "title": "High Resolution, Radiation Tolerant Focal Plane Array for Lunar And Deep Space Applications, Phase I"
+    },
+    {
+      "projectId": 8570,
+      "title": "Electronics Modeling and Design for Cryogenic and Radiation Hard Applications, Phase II"
+    },
+    {
+      "projectId": 6029,
+      "title": "Demonstration of a Plug and Play Approach to Satellite Thermal Control System Development, Phase I"
+    },
+    {
+      "projectId": 95712,
+      "title": "An Enhanced Modular Terminal Descent Sensor for Landing on Planetary Bodies, Phase II"
+    },
+    { "projectId": 15244, "title": "Microfluidic Life Analyzer (MILA)" },
+    { "projectId": 90209, "title": "Lunar Borehole Seismometer, Phase I" },
+    {
+      "projectId": 89484,
+      "title": "Extreme Environment Electronics Based on Silicon Carbide, Phase II"
+    },
+    {
+      "projectId": 9808,
+      "title": "Agile cognitive space radio demo on ISS, Phase I"
+    },
+    {
+      "projectId": 18314,
+      "title": "A high performance, electric pump-fed LOX / RP propulsion system, Phase II"
+    },
+    {
+      "projectId": 94178,
+      "title": "Organics and Biological Scanner : Standoff, fast, large area line scanner for non-destructive, sensitive, detection of biological and organic materials"
+    },
+    {
+      "projectId": 6430,
+      "title": "Wide Temperature Range DC-DC Boost Converters for Command/Control/Drive Electronics, Phase I"
+    },
+    {
+      "projectId": 10398,
+      "title": "Charge Dissipating Transparent Conformal Coatings for Spacecraft Electronics, Phase I"
+    },
+    {
+      "projectId": 91606,
+      "title": "In-Space Hybrid Energy Storage System Demonstration on CSUNSat1"
+    },
+    {
+      "projectId": 92296,
+      "title": "Integrated Sample Acquisition Drill and Pneumatic Sample Delivery for Ocean Worlds"
+    },
+    {
+      "projectId": 12945,
+      "title": "Triple Isotope Water Analyzer for Extraplanetary Studies, Phase II"
+    },
+    { "projectId": 13745, "title": "Low-Mass Planar Photonic Imaging Sensor" },
+    {
+      "projectId": 18020,
+      "title": "Radiation/Temperature Hardened Advanced Readout Array with Dynamic Power Modes, Phase I"
+    },
+    {
+      "projectId": 93745,
+      "title": "RSim: A Simulation Tool Integrating Radiation Codes and CAD., Phase I"
+    },
+    {
+      "projectId": 13010,
+      "title": "A Radiation Hardened Compact Multi-Channel DAC"
+    },
+    {
+      "projectId": 8281,
+      "title": "Lab on a Chip LCVR Polarimeter for Exploration of Life Signatures, Phase II"
+    },
+    {
+      "projectId": 89504,
+      "title": "RFI mitigating receiver back end for radiometers, Phase I"
+    },
+    {
+      "projectId": 24879,
+      "title": "Frequency agile heterodyne detector for submillimeter spectroscopy of planets and comets"
+    },
+    {
+      "projectId": 90177,
+      "title": "Improving the Response of Silicon Carbide Devices to Cosmic Radiation, Phase I"
+    },
+    {
+      "projectId": 18029,
+      "title": "Wide Temperature DC Link Capacitors for Aerospace Power Electronics, Phase I"
+    },
+    {
+      "projectId": 94844,
+      "title": "Ion Velocity Spectrometer for Solar Wind Monitor"
+    },
+    {
+      "projectId": 9321,
+      "title": "Radiation Hardened High Speed Fiber Optic Transceivers for Extreme Environments, Phase II"
+    },
+    {
+      "projectId": 94542,
+      "title": "Contamination Control System Via Vapor Hydrogen Peroxide Sterilization, Phase I"
+    },
+    {
+      "projectId": 9394,
+      "title": "High Quantum Efficiency Type II SLS FPAs for Space-Based Applications, Phase II"
+    },
+    {
+      "projectId": 89596,
+      "title": "Low Cost, Pump-fed, Non-Catalytic Thruster for Secondary Payload Green Propulsion, Phase I"
+    },
+    {
+      "projectId": 90031,
+      "title": "Pump-Fed, Compact, High Performance Green Propulsion System for Secondary Payloads, Phase I"
+    },
+    {
+      "projectId": 92300,
+      "title": "Autonomous Melt-Probe Penetration of Dirty Ice with Clean Sampling for Life Detection"
+    },
+    {
+      "projectId": 92713,
+      "title": "Multiwavelength Digital Holography for Spectral Discrimination of Bacteria and Minerals"
+    },
+    {
+      "projectId": 33709,
+      "title": "High heat flux Enhanced Acquisition and Transport system for Small spacecraft, Phase I"
+    },
+    {
+      "projectId": 24798,
+      "title": "MACROS: Molecular Analyzer for Complex Refractory Organic-rich Surfaces"
+    },
+    {
+      "projectId": 93890,
+      "title": "Terrain Adaptive Reconfiguration of Mobility"
+    },
+    {
+      "projectId": 95575,
+      "title": "Autonomous Multifunctional Sensor Platform"
+    },
+    {
+      "projectId": 9896,
+      "title": "Thermopile Detector Radiation Hardened Readout, Phase II"
+    },
+    {
+      "projectId": 33576,
+      "title": "Compact High Performance Spectrometers Using Computational Imaging, Phase I"
+    },
+    {
+      "projectId": 33293,
+      "title": "Model-Based Fault Management Engineering Tool Suite, Phase II"
+    },
+    {
+      "projectId": 34079,
+      "title": "Radiation Tolerant Integrated Attitude Determination and Control (uADCS) System, Phase I"
+    },
+    {
+      "projectId": 16773,
+      "title": "Space Qualified Heterogeneous Processing, Phase I"
+    },
+    {
+      "projectId": 17921,
+      "title": "Megapixel mercury cadmium telluride focal plane arrays for infrared imaging out to 12 microns, Phase I"
+    },
+    {
+      "projectId": 88358,
+      "title": "High Broadband Reflectivity Mirror Coatings for the Next Generation ofSpace Observatories"
+    },
+    { "projectId": 88650, "title": "Journey to the Center of Icy Moons" },
+    {
+      "projectId": 18235,
+      "title": "Low Power Nonvolatile Memory for Extreme Environments, Phase I"
+    },
+    {
+      "projectId": 92283,
+      "title": "Cold Survivable Distributed Motor Controller (CSDMC)"
+    },
+    {
+      "projectId": 17797,
+      "title": "Advanced Li/S Batteries Based on Novel Composite Cathode and Electrolyte System, Phase II"
+    },
+    {
+      "projectId": 17844,
+      "title": "Miniature Ka-band Automated Swath Mapper (KASM), Phase I"
+    },
+    {
+      "projectId": 89808,
+      "title": "Penetrator-Compatible Microfluidic Analyzer For Lipids, Amino Acid Chirality, and pH, Phase I"
+    },
+    {
+      "projectId": 94570,
+      "title": "Elastic-Memory Composite Antenna Booms for SmallSats, Phase I"
+    },
+    {
+      "projectId": 93260,
+      "title": "Silicon Micromachining for Millimeter- and Submillimeter-Wave Applications"
+    },
+    {
+      "projectId": 93218,
+      "title": "Electrochemical Detection of Biological Catalysts as Signatures of Life"
+    },
+    {
+      "projectId": 94501,
+      "title": "Assured Resilience for Autonomous Systems, Phase I"
+    },
+    {
+      "projectId": 16747,
+      "title": "Rad hard Non volatile memory for FPGA boot loading, Phase I"
+    },
+    {
+      "projectId": 9805,
+      "title": "Space Electronics Operating at High Temperatures and Radiation Levels, Phase I"
+    },
+    {
+      "projectId": 18293,
+      "title": "Radiation hard Monolithic SDRAM to support DDR2 and DDR3 architectures, Phase I"
+    },
+    {
+      "projectId": 94151,
+      "title": "Intelligent Data Understanding for Architecture Analysis of Entry, Descent, and Landing"
+    },
+    { "projectId": 92755, "title": "Mini-Advanced Pointing Imaging Camera" },
+    {
+      "projectId": 16587,
+      "title": "Striction-based Power Monitoring in Space Environment, Phase I"
+    },
+    {
+      "projectId": 94724,
+      "title": "Rad-Hard, Wide Bandgap, Single Inductor Multiple Output (SIMO) Converters, Phase I"
+    },
+    {
+      "projectId": 90500,
+      "title": "Innovations for the Affordable Conductive Thermal Control Material Systems for Space Applications, Phase II"
+    },
+    {
+      "projectId": 92285,
+      "title": "Development of Nanopore Sequencing for Automated Ocean World Life Detection"
+    },
+    {
+      "projectId": 9807,
+      "title": "Digitally intensive DC-DC converter for extreme space environments, Phase I"
+    },
+    {
+      "projectId": 92710,
+      "title": "Next-generation Miniaturized Thermal Imagers Based on Advanced Thermoelectric Materials and an Innovative Ultra-compact Optical Design"
+    },
+    {
+      "projectId": 89940,
+      "title": "Vapor Hydrogen Peroxide Sterilization System for Contamination Control, Phase I"
+    },
+    {
+      "projectId": 93211,
+      "title": "Smart Projectiles for Environmental Assessment, Reconnaissance and Sensing (SPEARS)"
+    },
+    {
+      "projectId": 33172,
+      "title": "Planetary Volatiles Extractor for In Situ Resource Utilization, Phase I"
+    },
+    {
+      "projectId": 34115,
+      "title": "Extreme Environment Compatible Ceramic Enhanced PEBB Devices (EE-PEBB), Phase I"
+    },
+    {
+      "projectId": 8207,
+      "title": "Novel Micro-Capillary Electrochromatography for Mars Organic Detector, Phase II"
+    },
+    {
+      "projectId": 12925,
+      "title": "Novel High Pressure Pump-on-a-Chip Technology, Phase II"
+    },
+    {
+      "projectId": 18275,
+      "title": "Coupled Subcritical Water and Solid Phase Extraction for In-Situ Chemical Analysis, Phase I"
+    },
+    {
+      "projectId": 94630,
+      "title": "In-Situ Solid Phase Extraction of Chemical Targets (INSPECT), Phase I"
+    },
+    { "projectId": 17231, "title": "Low-Mass Planar Photonic Imaging Sensor" },
+    {
+      "projectId": 9369,
+      "title": "An Ultra Low Power Cryo-Refrigerator for Space, Phase II"
+    },
+    {
+      "projectId": 91386,
+      "title": "Pop-Up Flat Folding Explorer Robotics (PUFFER)"
+    },
+    {
+      "projectId": 92292,
+      "title": "EFun:the Plume Sampling System for Enceladus"
+    },
+    {
+      "projectId": 19126,
+      "title": "A Doppler Radar/Spectrometer for Characterization of Gas and Dust on Primitive Bodies and Icy Moons"
+    },
+    {
+      "projectId": 10582,
+      "title": "Distillation Brine Purification for Resource Recovery Applications"
+    },
+    {
+      "projectId": 90074,
+      "title": "High-gain, Low-excess-noise APD Arrays for Near-single-photon-sensitive LADAR, Phase I"
+    },
+    {
+      "projectId": 94625,
+      "title": "In-Situ Electrospray Capture of Organic Bearing Particulates from Alien Water Fountains, Phase I"
+    },
+    {
+      "projectId": 8282,
+      "title": "A Novel Low-cost, Ka-band, High Altitude, Multi-Baseline Unmanned Aerial Vehicle Sensor for Surface Water Ocean Topography, Phase II"
+    },
+    {
+      "projectId": 33415,
+      "title": "Extreme Environment Ceramic Energy Harvesting/Sensors, Phase I"
+    },
+    {
+      "projectId": 92667,
+      "title": "Millimeter-wave spectrometer for chirality and relative abundance determination of amino acid biomarkers"
+    },
+    {
+      "projectId": 17745,
+      "title": "Multi-Purpose Interplanetary Deployable Aerocapture System (MIDAS), Phase I"
+    },
+    {
+      "projectId": 17763,
+      "title": "Rad Hard Non Volatile Memory for FPGA BootLoading, Phase II"
+    },
+    {
+      "projectId": 94638,
+      "title": "Integrated On-Chip Power for Harsh Environments, Phase I"
+    },
+    {
+      "projectId": 90479,
+      "title": "Miniaturized Interrogation System for Marsupial Rover Sensing Tether, Phase I"
+    },
+    {
+      "projectId": 92589,
+      "title": "Instrumentation For Multiple Radiation Detection Based On Novel Mercurous Halides For Nuclear Planetology, Phase II"
+    },
+    {
+      "projectId": 16658,
+      "title": "Extreme environment, rad hard, high performance, low power FPGA for space applications, Phase I"
+    },
+    {
+      "projectId": 34187,
+      "title": "The World is Not Enough (WINE): Harvesting Local Resources for Eternal Exploration of Space, Phase I"
+    },
+    {
+      "projectId": 94722,
+      "title": "Pushing the State of the Art: A Web-enabled MBSE Analysis Integration Framework, Phase I"
+    },
+    {
+      "projectId": 90447,
+      "title": "Large-Area, Atmospheric Pressure Plasma Jet for Spacecraft Surface Sterilization for Planetary Protection, Phase I"
+    },
+    {
+      "projectId": 24824,
+      "title": "AROMA: ADVANCED RESOLUTION ORGANIC MOLECULE ANALYZER"
+    },
+    {
+      "projectId": 94710,
+      "title": "Polymer Derived Ceramic Based Structural Thermal Protection Systems for Atmospheric Entry Vehicles, Phase I"
+    },
+    {
+      "projectId": 33356,
+      "title": "Development of Non-Contact Trace Contamination Detection Methods and Instrumentation for Spacecraft Cleaning Validation Using Deep UV Chemical Imaging, Phase I"
+    },
+    {
+      "projectId": 94733,
+      "title": "Remote Investigation of Trace Organics using Cryoluminescence (RITOC), Phase I"
+    },
+    {
+      "projectId": 17865,
+      "title": "The Compact Hyperspectral Aberration-corrected Platform (CHAP), an instrument for microspacecraft., Phase I"
+    },
+    {
+      "projectId": 33111,
+      "title": "Sensing Aware Autonomous Communications System, Phase I"
+    },
+    {
+      "projectId": 17430,
+      "title": "Compact variable rate laser for space application"
+    },
+    {
+      "projectId": 93476,
+      "title": "Extended Length Marsupial Rover Sensing Tether, Phase I"
+    },
+    {
+      "projectId": 17782,
+      "title": "Striction-based Power Monitoring in Space Environment, Phase II"
+    },
+    {
+      "projectId": 18046,
+      "title": "Fiber Optic Shape Sensing for Tethered Marsupial Rovers, Phase II"
+    },
+    {
+      "projectId": 93564,
+      "title": "Instrumented Bit for In-Situ Spectroscopy (IBISS), Phase I"
+    },
+    {
+      "projectId": 15888,
+      "title": "Titan Submarine: Exploring the Depths of Kraken"
+    },
+    {
+      "projectId": 93601,
+      "title": "Liquefied Gas Catholytes for UItra-Low Temperature Lithium Primary Batteries, Phase I"
+    },
+    {
+      "projectId": 33386,
+      "title": "Fault Management Technologies - Metrics Evaluation and V&V, Phase I"
+    },
+    {
+      "projectId": 93327,
+      "title": "A Compact Fluorescence Lifetime Excitation-Emission Spectrometer (FLEXEMS) for Detecting Trace Organics, Phase II"
+    },
+    {
+      "projectId": 92849,
+      "title": "Exploring and Sampling Recurring Slope Lineae and Other Extreme Terrains"
+    },
+    {
+      "projectId": 92781,
+      "title": "Seismometer to Investigate Ice and Ocean Structure (SIIOS)"
+    },
+    {
+      "projectId": 95636,
+      "title": "Low Cost, Low Noise, High Voltage Pulser-Driver for Spaceborne Electro-Optics for Earth and Planetart Remote Sensing"
+    },
+    {
+      "projectId": 93509,
+      "title": "Heterogeneous Silicon Photonics OFDR Sensing System, Phase I"
+    },
+    {
+      "projectId": 95724,
+      "title": "Heterogeneous Silicon Photonics OFDR Sensing System, Phase II"
+    },
+    {
+      "projectId": 16139,
+      "title": "Ultra-Compact Optical Spectrometer for Organic Mapping, uCOSOM (microcosm), Phase II"
+    },
+    { "projectId": 92298, "title": "NMR Detection of Extant Life" },
+    {
+      "projectId": 16669,
+      "title": "Cryocooler With Cold Compressor for Deep Space Applications, Phase I"
+    },
+    {
+      "projectId": 16581,
+      "title": "Extreme Environment Circuit Blocks for Spacecraft Power & Propulsion System & Other High Reliability Applications, Phase I"
+    },
+    {
+      "projectId": 90526,
+      "title": "A Compact Fluorescence Lifetime Excitation-Emission Spectrometer (FLEXEMS) for Detecting Trace Organics, Phase I"
+    },
+    {
+      "projectId": 16771,
+      "title": "ChemCam-like Spectrometer for Non-Contact Measurements of Key Isotopes, Phase I"
+    },
+    {
+      "projectId": 94422,
+      "title": "Development of far-UV-sensitive silicon imaging arrays for compact UV instrumentation"
+    },
+    { "projectId": 93755, "title": "Silicon Carbide Gate Driver, Phase I" },
+    {
+      "projectId": 89538,
+      "title": "Hydrogenation of Very Long Wavelength Infrared Focal Plane Arrays Based on Type II Superlattices, Phase I"
+    },
+    {
+      "projectId": 92281,
+      "title": "ICICLES: Intelligence for Choosing Icy Landing and Exploration Sites"
+    },
+    {
+      "projectId": 90128,
+      "title": "Extreme Environment Compatible Ceramic Enhanced PEBB Devices (EE-PEBB), Phase II"
+    },
+    {
+      "projectId": 93795,
+      "title": "Thermoplastic forming of bulk metallic glasses for precision robotics components, Phase I"
+    },
+    {
+      "projectId": 93917,
+      "title": "Algorithms and Techniques for Environmental Sensing and Spacecraft Monitoring"
+    },
+    {
+      "projectId": 18432,
+      "title": "Radiation-Hardening of Best-in-Class SiGe Mixed-Signal and RF Electronics for Ultra-Wide Temperature Range, Phase I"
+    },
+    {
+      "projectId": 89489,
+      "title": "Model-Based Off-Nominal State Isolation and Detection System for Autonomous Fault Management, Phase II"
+    },
+    {
+      "projectId": 88596,
+      "title": "Miniaturized solid-state based vector magnetometer for planetary field mapping"
+    },
+    {
+      "projectId": 33141,
+      "title": "Multifunctional Environmental Digital Scanning Electron Microprobe (MEDSEM), Phase I"
+    },
+    {
+      "projectId": 24947,
+      "title": "Detection of Amino Acids/Organics on an Open-Tubular Ion/Liquid Chromatograph"
+    },
+    {
+      "projectId": 89850,
+      "title": "Planetary Volatiles Extractor for In Situ Resource Utilization, Phase II"
+    },
+    {
+      "projectId": 89494,
+      "title": "Ultrasonic Additive Manufacturing for Capillary Heat Transfer Devices and Integrated Heat Exchangers, Phase II"
+    },
+    {
+      "projectId": 92297,
+      "title": "Advancing Nanomotion Sensor Technology to Provide Evidence for Active Life in Ocean Worlds"
+    },
+    {
+      "projectId": 88581,
+      "title": "Technology Readiness Level Elevation of the Enceladus Organic Analyzer for Outer-Planetary in situ Organic Analysis"
+    },
+    {
+      "projectId": 89423,
+      "title": "Deep Space Cryocooler System (DSCS), Phase I"
+    },
+    { "projectId": 94417, "title": "Universal MEMS Seismometer" },
+    {
+      "projectId": 93437,
+      "title": "Deep Space Cryocooler System (DSCS), Phase II"
+    },
+    {
+      "projectId": 92582,
+      "title": "Multifunctional Environmental Digital Scanning Electron Microprobe (MEDSEM), Phase II"
+    },
+    {
+      "projectId": 89876,
+      "title": "Smart COordination of UAV Teams (SCOUT), Phase I"
+    },
+    {
+      "projectId": 93642,
+      "title": "Miniaturized Spacecraft Platform for Command, Data Handling and Electronics, Phase I"
+    },
+    { "projectId": 94419, "title": "Two Spectrometers on a Chip" },
+    {
+      "projectId": 93841,
+      "title": "WOLFEChip: Wholly-integrated Optofluidic Laser-induced Fluorescence Electrophoresis Chip, Phase I"
+    },
+    {
+      "projectId": 92716,
+      "title": "Stable Field Emitters Using Inverse Opal Structures"
+    },
+    {
+      "projectId": 92284,
+      "title": "ARCHIMEDES (A Really Cool High Impact Method for Exploring Down into Europan Subsurface)"
+    },
+    {
+      "projectId": 92061,
+      "title": "High Temperature Superconductor Bolometers for Planetary Science"
+    },
+    {
+      "projectId": 93370,
+      "title": "An Enhanced Modular Terminal Descent Sensor for Landing on Planetary Bodies, Phase I"
+    },
+    {
+      "projectId": 17911,
+      "title": "Radiation Hard Monolithic SDRAM to Support DDR2 and DDR3 Architectures, Phase II"
+    },
+    {
+      "projectId": 93376,
+      "title": "Antimicrobial Coating for Metallic Surfaces, Phase I"
+    },
+    {
+      "projectId": 88461,
+      "title": "Miniature Lightweight X-ray Optics for Solar System Exploration"
+    },
+    {
+      "projectId": 33221,
+      "title": "The Compact Hyperspectral Aberration-Corrected Platform (CHAP), an Instrument for Microspacecraft., Phase II"
+    },
+    {
+      "projectId": 89563,
+      "title": "Characterization and Mitigation of Radiation and High Temperature Effects in SiC Power Electronics, Phase I"
+    },
+    {
+      "projectId": 93813,
+      "title": "Ultra Compact Laser for 3D Imaging LIDAR, Phase II"
+    },
+    {
+      "projectId": 93406,
+      "title": "Characterization and Mitigation of Radiation and High Temperature Effects in SiC Power Electronics, Phase II"
+    },
+    {
+      "projectId": 34057,
+      "title": "Radiation-Hardening of Best-In-Class SiGe Mixed-Signal and RF Electronics for Ultra-Wide Temperature Range, Phase II"
+    },
+    {
+      "projectId": 90506,
+      "title": "Radiation Hardened High Speed Integrated Circuits SERDES I/O for Extreme Operating Environments, Phase I"
+    },
+    {
+      "projectId": 93719,
+      "title": "Radiation Hardened High Speed Integrated Circuits Double Data Rate I/O for Extreme Operating Environments, Phase I"
+    },
+    { "projectId": 93716, "title": "Rad-Hard LDO, Phase I" },
+    {
+      "projectId": 92581,
+      "title": "The World is Not Enough (WINE): Harvesting Local Resources for Eternal Exploration of Space, Phase II"
+    },
+    {
+      "projectId": 93718,
+      "title": "Radiation and High Temperature Tolerant GaN Power Electronics, Phase I"
+    },
+    {
+      "projectId": 8818,
+      "title": "Small Submersible Robust Microflow Cytometer for Quantitative Detection of Phytoplankton, Phase II"
+    },
+    {
+      "projectId": 92846,
+      "title": "Optimized Integrated Vehicle, Operations, and Network Constellation Design"
+    },
+    {
+      "projectId": 93381,
+      "title": "A Silicon Carbide Foundry for NASA's UV and High Temperature CMOS Electronics Needs, Phase II"
+    },
+    { "projectId": 14621, "title": "Signs of Life Detector Development" },
+    {
+      "projectId": 17372,
+      "title": "Improved Laser performance through Planar Waveguide Technology Development"
+    }
+  ]
+}

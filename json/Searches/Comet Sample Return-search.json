@@ -1,0 +1,287 @@
+{
+  "projects": [
+    {
+      "projectId": 19098,
+      "title": "The BiBlade Sampler for Small Body Sample Return Matured for a Comet Surface Sample Return Mission"
+    },
+    {
+      "projectId": 17798,
+      "title": "A Comet Surface Sample Return System, Phase II"
+    },
+    {
+      "projectId": 16774,
+      "title": "A Comet Surface Sample Return System, Phase I"
+    },
+    {
+      "projectId": 17842,
+      "title": "Autolanding for Sample Return Missions, Phase I"
+    },
+    { "projectId": 18448, "title": "Pyramid Comet Sampler, Phase I" },
+    {
+      "projectId": 89822,
+      "title": "Development of a Hermetically Sealed Canister for Sample Return Missions, Phase II"
+    },
+    {
+      "projectId": 11548,
+      "title": "The Regolith Biters: A Divide-And-Conquer Architecture for Sample Return Missions"
+    },
+    { "projectId": 34004, "title": "Pyramid Comet Sampler, Phase II" },
+    {
+      "projectId": 33495,
+      "title": "Development of a Hermetically Sealed Canister for Sample Return Missions, Phase I"
+    },
+    {
+      "projectId": 95559,
+      "title": "Novel Dynamical Analysis of Spacecraft Operating in Close Proximity to Active Comets"
+    },
+    {
+      "projectId": 12095,
+      "title": "Advanced Curation For Current and Future Extraterrestrial Sample Collections"
+    },
+    {
+      "projectId": 33601,
+      "title": "A Robust Architecture for Sampling Small Bodies, Phase I"
+    },
+    {
+      "projectId": 16757,
+      "title": "COARSE: Convex Optimization based autonomous control for Asteroid Rendezvous and Sample Exploration, Phase I"
+    },
+    {
+      "projectId": 91589,
+      "title": "CubeSat with Nanostructured Sensing Instrumentation for Planetary Exploration"
+    },
+    {
+      "projectId": 93401,
+      "title": "Bonding and Analysis of Composite TRAC Booms for NASA Science Missions, Phase II"
+    },
+    {
+      "projectId": 16597,
+      "title": "NanoDrill: 1 Actuator Core Acquisition System, Phase I"
+    },
+    {
+      "projectId": 12114,
+      "title": "Development of a Wide-Spectrum Organic Analysis Instrument"
+    },
+    {
+      "projectId": 9467,
+      "title": "NOFBX Single-Stage-to-Orbit Mars Ascent Vehicle Engine, Phase II"
+    },
+    {
+      "projectId": 19126,
+      "title": "A Doppler Radar/Spectrometer for Characterization of Gas and Dust on Primitive Bodies and Icy Moons"
+    },
+    {
+      "projectId": 90488,
+      "title": "Radiation Tolerant Temperature-Invariant Scintillation Modules, Phase I"
+    },
+    {
+      "projectId": 34165,
+      "title": "Subsurface Prospecting by Planetary Drones, Phase I"
+    },
+    { "projectId": 16615, "title": "Surface Abrasion Tool, Phase I" },
+    {
+      "projectId": 18078,
+      "title": "NanoDrill: 1 Actuator Core Acquisition System, Phase II"
+    },
+    {
+      "projectId": 34056,
+      "title": "Free-Flying Unmanned Robotic Spacecraft for Asteroid Resource Prospecting and Characterization, Phase II"
+    },
+    {
+      "projectId": 90369,
+      "title": "Bonding and Analysis of Composite TRAC Booms for NASA Science Missions, Phase I"
+    },
+    {
+      "projectId": 96535,
+      "title": "An ultra-compact midwave hyperspectral framing camera"
+    },
+    {
+      "projectId": 24797,
+      "title": "Next Generation Neutron and Gamma-Ray Spectrometer for Planetary Spacecraft"
+    },
+    {
+      "projectId": 90261,
+      "title": "Planetary Vacuum Cleaner for Venus and Mars, Phase I"
+    },
+    { "projectId": 93472, "title": "Europa Drum Sampler (EDuS), Phase I" },
+    {
+      "projectId": 12945,
+      "title": "Triple Isotope Water Analyzer for Extraplanetary Studies, Phase II"
+    },
+    {
+      "projectId": 18235,
+      "title": "Low Power Nonvolatile Memory for Extreme Environments, Phase I"
+    },
+    {
+      "projectId": 93721,
+      "title": "Radiation Tolerant Temperature-Invariant Scintillation Modules, Phase II"
+    },
+    {
+      "projectId": 94529,
+      "title": "Common and Configurable Flash LIDAR Sensor for Space-Based Autonomous Landing, Rendezvous, and Docking Missions, Phase I"
+    },
+    {
+      "projectId": 16771,
+      "title": "ChemCam-like Spectrometer for Non-Contact Measurements of Key Isotopes, Phase I"
+    },
+    {
+      "projectId": 93312,
+      "title": "3D Flash LIDAR All Weather Safety, Phase I"
+    },
+    {
+      "projectId": 89702,
+      "title": "In-situ Spectroscopic Europa Explorer (ISEE), Phase I"
+    },
+    {
+      "projectId": 93564,
+      "title": "Instrumented Bit for In-Situ Spectroscopy (IBISS), Phase I"
+    },
+    {
+      "projectId": 19071,
+      "title": "The Search for Extra-Terrestrial Genomes (SETG)"
+    },
+    {
+      "projectId": 94650,
+      "title": "LACROSS: Life Analysis, Capture, and Retention on an Orbiting Saturn Spacecraft, Phase I"
+    },
+    { "projectId": 92768, "title": "The Enceladus Organic Analyzer" },
+    {
+      "projectId": 14573,
+      "title": "Onboard Optical Navigation Measurement Processing in GEONS"
+    },
+    {
+      "projectId": 34079,
+      "title": "Radiation Tolerant Integrated Attitude Determination and Control (uADCS) System, Phase I"
+    },
+    {
+      "projectId": 16773,
+      "title": "Space Qualified Heterogeneous Processing, Phase I"
+    },
+    {
+      "projectId": 33426,
+      "title": "Industrial Electrostatic-Gecko Gripper, Phase I"
+    },
+    {
+      "projectId": 16747,
+      "title": "Rad hard Non volatile memory for FPGA boot loading, Phase I"
+    },
+    {
+      "projectId": 18293,
+      "title": "Radiation hard Monolithic SDRAM to support DDR2 and DDR3 architectures, Phase I"
+    },
+    {
+      "projectId": 33172,
+      "title": "Planetary Volatiles Extractor for In Situ Resource Utilization, Phase I"
+    },
+    {
+      "projectId": 95804,
+      "title": "Swath Mapping Lidar with Fiber Lasers and PN Code Modulation"
+    },
+    { "projectId": 94419, "title": "Two Spectrometers on a Chip" },
+    {
+      "projectId": 8474,
+      "title": "Flash3D EDL Sensor Technology Advancement, Phase II"
+    },
+    {
+      "projectId": 8794,
+      "title": "Development of a Low-SWAP, RAD-Tolerant, Thermally Stable, 10Gbps per Channel Fiber Optic Transceiver for Harsh Environment Networking Applications, Phase I"
+    },
+    { "projectId": 94535, "title": "Compact Modular Flash LIDAR, Phase I" },
+    {
+      "projectId": 12852,
+      "title": "Magnesium Hall Thruster for Solar System Exploration, Phase II"
+    },
+    {
+      "projectId": 88614,
+      "title": "Mobility in the Small Body Environment: Close Proximity Landing and Surface Dynamics"
+    },
+    {
+      "projectId": 12851,
+      "title": "Wide Throttling, High Throughput Hall Thruster for Science and Exploration Missions, Phase II"
+    },
+    { "projectId": 90467, "title": "A cubesat hyperspectral imager, Phase I" },
+    {
+      "projectId": 5137,
+      "title": "A Monolithic, Non-Field-Widened Spatial Heterodyne Spectrometer for Solar System Exploration, Phase I"
+    },
+    { "projectId": 9431, "title": "3D Flash LIDAR Space Laser, Phase I" },
+    {
+      "projectId": 17763,
+      "title": "Rad Hard Non Volatile Memory for FPGA BootLoading, Phase II"
+    },
+    {
+      "projectId": 89850,
+      "title": "Planetary Volatiles Extractor for In Situ Resource Utilization, Phase II"
+    },
+    { "projectId": 88520, "title": "Planetary Polarization Nephelometer" },
+    {
+      "projectId": 9379,
+      "title": "3D Flash LIDAR Real-Time Embedded Processing, Phase II"
+    },
+    { "projectId": 16608, "title": "3D Flash LIDAR Space Laser, Phase II" },
+    {
+      "projectId": 16594,
+      "title": "3D Flash LIDAR EDL Resolution Improvement, Phase I"
+    },
+    {
+      "projectId": 9327,
+      "title": "Hummingbird - A Very Low Cost, High Delta V Spacecraft for Solar System Exploration, Phase I"
+    },
+    {
+      "projectId": 93301,
+      "title": "Qualified Electronics for Extreme Cold Environment"
+    },
+    {
+      "projectId": 33111,
+      "title": "Sensing Aware Autonomous Communications System, Phase I"
+    },
+    {
+      "projectId": 92573,
+      "title": "Subsurface Prospecting by Planetary Drones, Phase II"
+    },
+    {
+      "projectId": 18380,
+      "title": "3D Flash LIDAR EDL Resolution Improvement, Phase II"
+    },
+    {
+      "projectId": 94638,
+      "title": "Integrated On-Chip Power for Harsh Environments, Phase I"
+    },
+    {
+      "projectId": 33940,
+      "title": "Perception and Navigation for Exploration of Shadowed Domains, Phase I"
+    },
+    {
+      "projectId": 88594,
+      "title": "Ultra-bright scintillator for planetary gamma ray spectroscopy"
+    },
+    {
+      "projectId": 94677,
+      "title": "Monolithically Integrated TCC VCSELs with Surface-Normal 2D Slow-Light PC Waveguide Arrays, Phase I"
+    },
+    {
+      "projectId": 16581,
+      "title": "Extreme Environment Circuit Blocks for Spacecraft Power & Propulsion System & Other High Reliability Applications, Phase I"
+    },
+    {
+      "projectId": 93919,
+      "title": "Reconstituting Asteroids into Mechanical Automata"
+    },
+    {
+      "projectId": 11831,
+      "title": "Low Thrust Trajectory Design for GSFC Missions"
+    },
+    {
+      "projectId": 92061,
+      "title": "High Temperature Superconductor Bolometers for Planetary Science"
+    },
+    {
+      "projectId": 89504,
+      "title": "RFI mitigating receiver back end for radiometers, Phase I"
+    },
+    {
+      "projectId": 14761,
+      "title": "Low Thrust Trajectory Design for GSFC Missions Project"
+    }
+  ]
+}

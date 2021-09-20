@@ -1,0 +1,125 @@
+{
+  "projectIdArray": [
+    {
+      "id": 13744,
+      "title": "10 meter Sub-Orbital Large Balloon Reflector",
+      "website": "https://www.nasa.gov/directorates/spacetech/home/index.html",
+      "imageUrl": "https://techport.nasa.gov/file/2472",
+      "imageDescription": "Project Image   10 meter Sub-Orbital Large Balloon Reflector (LBR)",
+      "imageTitle": "13744-1390338421600.jpg",
+      "definition": "definition for 13744 which should be got from a project detail call TBD",
+      "exampleTechnologies": "example technologies call for 13744 which should be got from a project detail call TBD",
+      "hasImages": true
+    },
+    {
+      "id": 14325,
+      "title": "10 meter Sub-Orbital Large Balloon Reflector (LBR)",
+      "website": "http://soral.as.arizona.edu/LBR/",
+      "imageUrl": "https://techport.nasa.gov/file/5012",
+      "imageDescription": "Concept diagram",
+      "imageTitle": "Large Balloon Reflector Concept",
+      "definition": "definition for 14325 which should be got from a project detail call TBD",
+      "exampleTechnologies": "example technologies call for 14325 which should be got from a project detail call TBD",
+      "hasImages": true
+    },
+    {
+      "id": 12150,
+      "title": "Sub-Scale Re-entry Capsule Drop via High Altitude Balloons",
+      "imageUrl": "https://techport.nasa.gov/file/2306",
+      "imageDescription": "Project Image   Sub-Scale Re-entry Capsule Drop via High Altitude Balloons",
+      "imageTitle": "12150-1379607056286.jpg",
+      "definition": "Aerodynamic decelerators are deployable descent system components that generate aerodynamic forces on the spacecraft, principally drag for deceleration, and lift for guidance and control. Parachutes or parafoils are traditionally employed for this purpose, but other deployable or inflatable devices, attached or trailing, may scale more effectively to higher mass missions.",
+      "exampleTechnologies": "Supersonic Inflatable Aerodynamic Decelerator (SIAD); mechanically deployed decelerators and methods of active control; steerable and guided deployable decelerators; dual-mode attached decelerator systems; ballutes",
+      "hasImages": true
+    }
+  ],
+  "data1": [
+    {
+      "id": "three-d-cube-effect",
+      "content": "Slide #1",
+      "fill": "#53d7d1",
+      "imageUrl": "https://picsum.photos/id/86/320"
+    },
+    {
+      "id": "three-d-cube-effect",
+      "content": "Slide #2",
+      "fill": "#cec850",
+      "imageUrl": "https://picsum.photos/id/10/320"
+    },
+    {
+      "id": "three-d-cube-effect",
+      "content": "Slide #3",
+      "fill": "#f3acf6",
+      "imageUrl": "https://picsum.photos/id/42/320"
+    },
+    {
+      "id": "three-d-cube-effect",
+      "content": "Slide #4",
+      "fill": "#55dc92",
+      "imageUrl": "https://picsum.photos/id/32/320"
+    },
+    {
+      "id": "three-d-cube-effect",
+      "content": "Slide #5",
+      "fill": "#f7aed6",
+      "imageUrl": "https://picsum.photos/id/70/320"
+    },
+    {
+      "id": "three-d-cube-effect",
+      "content": "Slide #6",
+      "fill": "#96c9f4",
+      "imageUrl": "https://picsum.photos/id/37/320"
+    },
+    {
+      "id": "three-d-cube-effect",
+      "content": "Slide #7",
+      "fill": "#9ad552",
+      "imageUrl": "https://picsum.photos/id/15/320"
+    },
+    {
+      "id": "three-d-cube-effect",
+      "content": "Slide #8",
+      "fill": "#d5b8f8",
+      "imageUrl": "https://picsum.photos/id/38/320"
+    }
+  ],
+  "data2": [
+    { "content": "Slide #1", "fill": "#53d7d1" },
+    { "content": "Slide #2", "fill": "#cec850" },
+    { "content": "Slide #3", "fill": "#f3acf6" },
+    { "content": "Slide #4", "fill": "#55dc92" },
+    { "content": "Slide #5", "fill": "#f7aed6" },
+    { "content": "Slide #6", "fill": "#96c9f4" },
+    { "content": "Slide #7", "fill": "#9ad552" },
+    { "content": "Slide #8", "fill": "#d5b8f8" }
+  ],
+  "dataNASA": [
+    {
+      "id": "three-d-cube-effect",
+      "projectID'": "13744",
+      "content": "10 meter Sub-Orbital Large Balloon Reflector",
+      "fill": "#53d7d1",
+      "imageUrl": "https://techport.nasa.gov/file/2472",
+      "definition": "definition for 13744 which should be got from a project detail call TBD",
+      "exampleTechnologies": "example technologies call for 13744 which should be got from a project detail call TBD"
+    },
+    {
+      "id": "three-d-cube-effect",
+      "projectID'": "14325",
+      "content": "10 meter Sub-Orbital Large Balloon Reflector (LBR)",
+      "fill": "#cec850",
+      "imageUrl": "https://techport.nasa.gov/file/5012",
+      "definition": "definition for 14325 which should be got from a project detail call TBD",
+      "exampleTechnologies": "example technologies call for 14325 which should be got from a project detail call TBD"
+    },
+    {
+      "id": "three-d-cube-effect",
+      "projectID'": "12150",
+      "content": "Sub-Scale Re-entry Capsule Drop via High Altitude Balloons",
+      "fill": "#f3acf6",
+      "imageUrl": "https://techport.nasa.gov/file/2306",
+      "definition": "Aerodynamic decelerators are deployable descent system components that generate aerodynamic forces on the spacecraft, principally drag for deceleration, and lift for guidance and control. Parachutes or parafoils are traditionally employed for this purpose, but other deployable or inflatable devices, attached or trailing, may scale more effectively to higher mass missions.",
+      "exampleTechnologies": "Supersonic Inflatable Aerodynamic Decelerator (SIAD); mechanically deployed decelerators and methods of active control; steerable and guided deployable decelerators; dual-mode attached decelerator systems; ballutes"
+    }
+  ]
+}

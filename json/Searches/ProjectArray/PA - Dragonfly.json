@@ -1,0 +1,68 @@
+[
+  {
+    "id": 94057,
+    "title": "Dragonfly: On-Orbit Robotic Installation and Reconfiguration of Large Solid RF Reflectors",
+    "startDate": "Oct 2015",
+    "endDate": "Dec 2018",
+    "status": "Completed",
+    "website": "https://www.nasa.gov/mission_pages/tdm/main/index.html#.VQb6XUjJzyE",
+    "allImages": [
+      {
+        "imageUrl": "https://techport.nasa.gov/file/32192",
+        "imageTitle": "Dragonfly On-Orbit Robotic Installation and Reconfiguration of Large Solid RF Reflectors.jpg",
+        "imageDescription": "In this artist's rendering, the Dragonfly technology enables satellite self-assembly in orbit, a process which could maximize available payload space aboard launch vehicles and decrease launch costs"
+      }
+    ],
+    "primaryImageUrl": "https://techport.nasa.gov/file/32192",
+    "definition": "Deployables, docking, and interfaces combine and/or separate aerospace vehicles and aerospace vehicle systems either remotely or with humans in the loop.",
+    "exampleTechnologies": "Interfaces that streamline connectivity; precision hinges, latches, grappling mechanisms, low-shock releasing and deploying mechanisms; reliable packaging techniques for deployables; applications to all ranges of structure sizes; provisions for operation in harsh environment; Integrated Docking and Automated Rendezvous Systems Design, Docking Systems for Exploration; deployables such as solar arrays, antennae, booms, reflectors, and solar sails",
+    "benefits": "Technologies developed through Dragonfly will enable reconfiguration of traditionally fixed satellite designs.",
+    "hasTaxonomy": true,
+    "hasImages": true
+  },
+  {
+    "id": 33649,
+    "title": "Fully-Automated, Agricultural Application using Unmanned Aircraft, Phase I",
+    "startDate": "Jun 2015",
+    "endDate": "Dec 2015",
+    "status": "Completed",
+    "allImages": [
+      {
+        "imageUrl": "https://techport.nasa.gov/file/22830",
+        "imageTitle": "Briefing Chart",
+        "imageDescription": "Fully-Automated, Agricultural Application using Unmanned Aircraft Briefing Chart"
+      },
+      {
+        "imageUrl": "https://techport.nasa.gov/file/22092",
+        "imageTitle": "Briefing Chart Image",
+        "imageDescription": "Fully-Automated, Agricultural Application using Unmanned Aircraft, Phase I"
+      }
+    ],
+    "primaryImageUrl": "https://techport.nasa.gov/file/22092",
+    "definition": "This area covers architectures and infrastructure that support existing operations and enable the integration of new vehicles, new operations and new business models, including advanced communications technologies and infrastructure and cyber-security. ",
+    "exampleTechnologies": "Operator prioritization services integrated with air navigation service provider tools; develop requirements for a secure integrated CNS (Communications, Navigation, Surveillance) system for Trajectory Based-Operations (TBO) and future autonomous operations; guidelines & standards for initial Unmanned Aircraft Systems (UAS) integration in the NAS; technologies, guidelines, scalable architecture & standards for integration of all vehicles types into the NAS.",
+    "benefits": "Potential NASA Commercial Applications: The proposed effort directly responds to the goals cited in the solicitation to develop technologies that provide the ability of UAS to extract information in-flight and utilize this information in decision making.  This SBIR effort also directly supports current NASA/industry initiatives to establish airworthiness standards for FAA-certification that will provide a roadmap for future implementation of UAS in commercial applications within the U.S.  Specifically, this SBIR effort dovetails with a NASA/DPI partnership to utilize DPI's unmanned tandem DP-14 Field Hawk helicopter to study civil airworthiness certification for use in the national airspace through demonstration of precision agricultural application, a mission that is particularly suited to UAS given the significant dangers faced by manned aircraft maneuvering at extremely low altitudes.  The proposed SBIR effort complements and directly supports this NASA/DPI effort by adding demonstration of a fully-autonomous, flight path management system onboard the UAS tailored toward a specific task, in this case agricultural application.  This adds two key elements that must be demonstrated before UAS can be applied in commercial applications within the U.S., addressing both a need for technical advancement related to autonomous control and decision-making as well as a need to develop airworthiness FAA-certification requirements for autonomous aircraft operations.",
+    "hasTaxonomy": true,
+    "hasImages": true
+  },
+  {
+    "id": 93622,
+    "title": "MakerSat, Phase I",
+    "startDate": "Jun 2017",
+    "endDate": "Dec 2017",
+    "status": "Completed",
+    "allImages": [
+      {
+        "imageUrl": "https://techport.nasa.gov/file/30540",
+        "imageTitle": "Briefing Chart Image",
+        "imageDescription": "MakerSat, Phase I Briefing Chart Image"
+      }
+    ],
+    "primaryImageUrl": "https://techport.nasa.gov/file/30540",
+    "definition": "The assembly of flight hardware in final flight configuration requires a set of facilities, equipment, and processes unique to that vehicle and payload. Transformational technologies and future servicing capabilities can provide greater mission flexibility, enable a greater number of simultaneous activities, and provide the ability to share infrastructure and support systems between multiple NASA activities.",
+    "exampleTechnologies": "Robotic assistants for assembly; self-cleaning couplers; automated umbilicals; common ground test systems, i.e., between elements and integration levels; wireless power for prelaunch servicing (e.g., payload power and testing) and for umbilicals",
+    "benefits": "While SmallSats have the benefit of small size and mass, making them generally easier and cheaper to launch, fundamental physics demands large apertures and large baselines to achieve high performance in many sensing modalities.  The MakerSat technology will enable cost-effective small satellite platforms to conduct these high-performance missions, including long-baseline interferometric SAR, interferometric astronomy, and geolocation.  The MakerSat demonstration will establish the flight heritage necessary for in-space manufacturing technologies to be adopted into the critical path for NASA's scientific and exploration missions.<br /><br />The MakerSat technology will enable commercial SAR ventures such as Capella Space to dramatically increase the performance of their SAR smallsats.  It will enable DoD programs to use small satellite platforms to perform  multi-ball interferometric geolocation of GPS jammers and bi-static radar systems for EO missions.  The MakerSat demonstration will also establish flight heritage for the In-Space Manufacturing technology which is critical to the demonstration of the Trusselator on SSL's Dragonfly mission and the DARPA OrbWeaver program.",
+    "hasTaxonomy": true,
+    "hasImages": true
+  }
+]

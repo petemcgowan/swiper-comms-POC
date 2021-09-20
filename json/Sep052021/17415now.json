@@ -1,0 +1,245 @@
+{
+  "project": {
+    "projectId": 17415,
+    "title": "Development of SuperHERO readout electronics",
+    "primaryTaxonomyNodes": [
+      {
+        "taxonomyNodeId": 10741,
+        "taxonomyRootId": 8816,
+        "parentNodeId": 10740,
+        "level": 3,
+        "code": "TX08.1.1",
+        "title": "Detectors and Focal Planes",
+        "definition": "Detectors, focal planes and readout integrated circuits provide large-format array technologies that require high quantum efficiency (QE); low noise, high resolution, uniform, and stable response; low power and cost; and high reliability. These technologies include low-noise, high-speed, low-power and radiation hardened readout integrated circuit (ROIC) electronics; superconducting sensors; spectral detectors; polarization-sensitive detectors; radiation-hardened detectors; and micro-Kelvin and sub-Kelvin high sensitivity detectors that cover the spectrum from submillimeter wave (Far-IR) to X-ray.",
+        "exampleTechnologies": "Backshort Undergrid bolometer arrays, Mercury Cadmium Telluride and Strained Superlattice Arrays, charge coupled devices, sidecar readout integrated circuits, radiometric calibration and abnormality correction algorithms (e.g. non-uniformity)",
+        "hasChildren": false,
+        "hasInteriorContent": true
+      }
+    ],
+    "startTrl": 3,
+    "currentTrl": 3,
+    "endTrl": 4,
+    "benefits": "<p>This technology can be used on any future mission (sub-orbital or spacecraft) to observe hard X-rays from astrophysical sources and/or the Sun. &nbsp;The pixel pitch of the detectors enables high-quality hard X-ray imaging, and the high-count-rate capability of the electronics enables good measurements of even very bright sources.</p>",
+    "description": "<p>Next-generation solar hard X-ray (HXR) imagers will make high-sensitivity, high-dynamic-range observations of the signatures of accelerated electrons in solar eruptive events.&nbsp; Accordingly, their detectors, with associated readout electronics, must meet the requirements of spatial resolution, spectral resolution, and count rates for observing high-energy X-ray emission emitted from accelerated electrons.&nbsp; We will build off of ongoing development efforts to design readout electronics that can be used in flight.</p> <p>The SuperHERO balloon mission concept is the next step in solar hard X-ray (~20&ndash;80 keV) instrumentation following the successful HEROES balloon mission, which launched in September 2013.&nbsp; As with HEROES, SuperHERO is a collaboration between GSFC and MSFC, and uses grazing-incidence hard X-ray optics to focus X-rays onto position-sensitive detectors.&nbsp; HEROES used gas proportional scintillation counters, but the improved angular resolution of the optics on SuperHERO and the scientific benefits of increased effective area and throughput motivates a switch to state-of-the-art pixelated solid-state detectors.</p><p>The High Energy X-ray Imaging Technology (HEXITEC) pixelated CdTe detectors developed by the Detector Development Group at the Rutherford Appleton Laboratory (RAL) are uniquely capable of satisfying all the requirements for solar X-ray imaging.&nbsp; They provide pixel sizes 2x smaller than any other comparable energy-sensitive detectors (250x250 um pixel pitch), have large numbers of pixels per detector (80x80, can be tiled to 160x160), and can handle 10,000 counts per second per pixel while maintaining an energy resolution of ~0.5 keV down to soft X-ray energies of 3 keV.</p><p>We are building off of ongoing development efforts to design readout electronics that can be used in flight, such as for SuperHERO.&nbsp; This effort is the next stage in an ongoing effort to build a hard X-ray detector system that can be used on future sub-orbital or spacecraft missions.&nbsp; The ongoing development efforts have been funded by the IRAD program in collaboration with MSFC and RAL.&nbsp; The developed and tested design for the readout electronics design can then be used on the next funded mission (e.g., balloon or sounding rocket instrument).</p>",
+    "startYear": 2014,
+    "startMonth": 10,
+    "endYear": 2015,
+    "endMonth": 9,
+    "statusDescription": "Completed",
+    "principalInvestigators": [
+      {
+        "contactId": 7591,
+        "firstName": "Albert",
+        "lastName": "Shih",
+        "fullName": "Albert Y Shih",
+        "fullNameInverted": "Shih, Albert Y",
+        "middleInitial": "Y",
+        "primaryEmail": "albert.y.shih@nasa.gov",
+        "publicEmail": true,
+        "nacontact": false
+      }
+    ],
+    "programManagers": [
+      {
+        "contactId": 373483,
+        "firstName": "Peter",
+        "lastName": "Hughes",
+        "fullName": "Peter M Hughes",
+        "fullNameInverted": "Hughes, Peter M",
+        "middleInitial": "M",
+        "primaryEmail": "peter.m.hughes@nasa.gov",
+        "publicEmail": true,
+        "nacontact": false
+      }
+    ],
+    "projectManagers": [
+      {
+        "contactId": 357429,
+        "firstName": "Nikolaos",
+        "lastName": "Paschalidis",
+        "fullName": "Nikolaos Paschalidis",
+        "fullNameInverted": "Paschalidis, Nikolaos",
+        "primaryEmail": "nikolaos.paschalidis@nasa.gov",
+        "publicEmail": true,
+        "nacontact": false
+      }
+    ],
+    "coInvestigators": [
+      {
+        "contactId": 447330,
+        "firstName": "Steven",
+        "lastName": "Christe",
+        "fullName": "Steven D Christe",
+        "fullNameInverted": "Christe, Steven D",
+        "middleInitial": "D",
+        "primaryEmail": "steven.d.christe@nasa.gov",
+        "publicEmail": true,
+        "nacontact": false
+      }
+    ],
+    "website": "http://sciences.gsfc.nasa.gov/sed/",
+    "libraryItems": [],
+    "responsibleMd": {
+      "acronym": "MSD",
+      "canUserEdit": false,
+      "city": "",
+      "external": true,
+      "linkCount": 0,
+      "organizationId": 4910,
+      "organizationName": "Mission Support Directorate",
+      "organizationType": "NASA_Mission_Directorate",
+      "naorganization": false,
+      "organizationTypePretty": "NASA Mission Directorate"
+    },
+    "program": {
+      "acronym": "GSFC IRAD",
+      "active": true,
+      "description": "<p>Goddard&#39;s IRAD program is managed under Goddard&#39;s Office of Chief Technologist.&nbsp; Activities are coordinated in collaboration with the Sciences and Exploration Directorate; Applied Engineering and Technology Directorate; Flight Projects Directorate; Wallops Flight Facility; New Opportunites Office; SBIR/STTR program; Goddard Strategic Partnerships Office; and the Export Compliance Office.</p><p>IRAD provides&quot;seed funding&quot; to develop concepts, reduce technology risk, and advance human capital and technological capabilities.&nbsp; The program is highly competitive, opportunity-driven, and 100% strategically aligned with NASA&#39;s and GSFC&#39;s strategic priorities.&nbsp; A significant portion of the program is focused on Early Stage Innovations for high-risk, strategically aligned, potential high-payoff technologies that are longer-term or lower TRL.</p>",
+      "parentProgram": {
+        "acronym": "IRAD",
+        "active": true,
+        "programId": 87,
+        "responsibleMd": {
+          "acronym": "MSD",
+          "canUserEdit": false,
+          "city": "",
+          "external": true,
+          "linkCount": 0,
+          "organizationId": 4910,
+          "organizationName": "Mission Support Directorate",
+          "organizationType": "NASA_Mission_Directorate",
+          "naorganization": false,
+          "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "responsibleMdId": 4910,
+        "title": "Center Independent Research & Development"
+      },
+      "parentProgramId": 87,
+      "programId": 153,
+      "responsibleMd": {
+        "acronym": "MSD",
+        "canUserEdit": false,
+        "city": "",
+        "external": true,
+        "linkCount": 0,
+        "organizationId": 4910,
+        "organizationName": "Mission Support Directorate",
+        "organizationType": "NASA_Mission_Directorate",
+        "naorganization": false,
+        "organizationTypePretty": "NASA Mission Directorate"
+      },
+      "responsibleMdId": 4910,
+      "title": "Center Independent Research & Development: GSFC IRAD"
+    },
+    "leadOrganization": {
+      "acronym": "GSFC",
+      "canUserEdit": false,
+      "city": "Greenbelt",
+      "country": {
+        "abbreviation": "US",
+        "countryId": 236,
+        "name": "United States"
+      },
+      "countryId": 236,
+      "external": false,
+      "linkCount": 0,
+      "organizationId": 4947,
+      "organizationName": "Goddard Space Flight Center",
+      "organizationType": "NASA_Center",
+      "stateTerritory": {
+        "abbreviation": "MD",
+        "country": {
+          "abbreviation": "US",
+          "countryId": 236,
+          "name": "United States"
+        },
+        "countryId": 236,
+        "name": "Maryland",
+        "stateTerritoryId": 3
+      },
+      "stateTerritoryId": 3,
+      "naorganization": false,
+      "organizationTypePretty": "NASA Center"
+    },
+    "supportingOrganizations": [
+      {
+        "acronym": "MSFC",
+        "canUserEdit": false,
+        "city": "Huntsville",
+        "country": {
+          "abbreviation": "US",
+          "countryId": 236,
+          "name": "United States"
+        },
+        "countryId": 236,
+        "external": false,
+        "linkCount": 0,
+        "organizationId": 4854,
+        "organizationName": "Marshall Space Flight Center",
+        "organizationType": "NASA_Center",
+        "stateTerritory": {
+          "abbreviation": "AL",
+          "country": {
+            "abbreviation": "US",
+            "countryId": 236,
+            "name": "United States"
+          },
+          "countryId": 236,
+          "name": "Alabama",
+          "stateTerritoryId": 18
+        },
+        "stateTerritoryId": 18,
+        "naorganization": false,
+        "organizationTypePretty": "NASA Center"
+      }
+    ],
+    "coFundingPartners": [
+      {
+        "acronym": "RAL",
+        "canUserEdit": false,
+        "city": "Oxfordshire",
+        "country": {
+          "abbreviation": "GB",
+          "countryId": 235,
+          "name": "United Kingdom"
+        },
+        "countryId": 235,
+        "external": true,
+        "linkCount": 0,
+        "organizationId": 4821,
+        "organizationName": "Rutherford Appleton Laboratory",
+        "organizationType": "Academia",
+        "naorganization": false,
+        "organizationTypePretty": "Academia"
+      }
+    ],
+    "statesWithWork": [
+      {
+        "abbreviation": "AL",
+        "country": {
+          "abbreviation": "US",
+          "countryId": 236,
+          "name": "United States"
+        },
+        "countryId": 236,
+        "name": "Alabama",
+        "stateTerritoryId": 18
+      },
+      {
+        "abbreviation": "MD",
+        "country": {
+          "abbreviation": "US",
+          "countryId": 236,
+          "name": "United States"
+        },
+        "countryId": 236,
+        "name": "Maryland",
+        "stateTerritoryId": 3
+      }
+    ],
+    "lastUpdated": "2020-1-8",
+    "releaseStatusString": "Released",
+    "endDateString": "Sep 2015",
+    "startDateString": "Oct 2014"
+  }
+}

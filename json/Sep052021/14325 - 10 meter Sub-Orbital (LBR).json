@@ -1,0 +1,136 @@
+{
+  "project": {
+    "id": 14325,
+    "lastUpdated": "2019-09-03",
+    "title": "10 meter Sub-Orbital Large Balloon Reflector (LBR)",
+    "status": "Completed",
+    "startDate": "Aug 2014",
+    "endDate": "Jul 2016",
+    "description": "<p>This is the lead NIAC Phase II proposal for &ldquo;10 meter Sub-Orbital Large Balloon Reflector (LBR)&rdquo; with Christopher K. Walker as PI. We propose to develop and demonstrate the technology required to realize a suborbital, 10 meter class telescope suitable for operation from radio to THz frequencies. The telescope consists of an inflatable, half-aluminized spherical reflector deployed within a much larger carrier stratospheric balloon.</p> <p>Besides serving as a launch vehicle, the carrier balloon provides a stable mount for the enclosed telescope. Looking up, the LBR will serve as a telescope. Looking down, the LBR can be used for remote sensing or telecommunication activities. By combining successful suborbital balloon and ground-based telescope technologies, the dream of a 10 meter class telescope free of ~99% of the Earth&rsquo;s atmospheric absorption in the far-infrared can be realized. The same telescope can also be used to perform sensitive, high spectral and spatial resolution limb sounding studies of the Earth&rsquo;s atmosphere in greenhouse gases and serve as a high flying hub for any number of telecommunications and surveillance activities. LBR is a multi-institution effort between the University of Arizona (the PI institution), SWRI, JPL, and APL. LBR was selected in 2013 by the NASA Innovative Advanced Concepts (NIAC) program to proceed into Step B of the NIAC Phase I program. This makes LBR eligible to propose for a 2014 Phase II award. The goal of our NIAC Phase II effort is to bring LBR concepts to a Technology Readiness Level of at least 2 in maturity, by addressing key unknowns, assumptions, risks, and paths forward remaining after the completion of our Phase I study.</p>",
+    "benefits": "<p>A 10 meter class telescope free of ~99% of the Earth&rsquo;s atmospheric absorption in the far-infrared can be realized. The same telescope can also be used to perform sensitive, high spectral and spatial resolution limb sounding studies of the Earth&rsquo;s atmosphere in greenhouse gases and serve as a high flying hub for any number of telecommunications and surveillance activities.</p>",
+    "technologyMaturityStart": "2",
+    "technologyMaturityCurrent": "2",
+    "technologyMaturityEnd": "3",
+    "responsibleProgram": "NASA Innovative Advanced Concepts",
+    "responsibleMissionDirectorateOrOffice": "Space Technology Mission Directorate",
+    "leadOrganization": {
+      "name": "NASA Headquarters",
+      "type": "NASA Center",
+      "acronym": "HQ",
+      "city": "Washington",
+      "state": "DC",
+      "country": "United States"
+    },
+    "workLocations": ["Arizona", "California", "Maryland", "New York", "Texas"],
+    "programDirectors": ["Jason E Derleth"],
+    "programManagers": ["Michael R Lapointe"],
+    "principalInvestigators": ["Christopher K Walker"],
+    "coInvestigators": [
+      "Craig A Kulesa",
+      "German Cortes-medellin",
+      "Paul Goldsmith",
+      "Pietro Bernasconi",
+      "Ira S Smith"
+    ],
+    "website": "http://soral.as.arizona.edu/LBR/",
+    "libraryItems": [
+      {
+        "id": 5272,
+        "title": "Large Balloon Reflector Concept",
+        "type": "Image",
+        "description": "Concept diagram",
+        "externalUrl": null,
+        "publishedBy": null,
+        "publishedDate": null,
+        "files": [
+          {
+            "id": 5012,
+            "url": "https://techport.nasa.gov/file/5012",
+            "size": 197286
+          }
+        ]
+      },
+      {
+        "id": 5316,
+        "title": "Large Balloon Reflector Early Concept",
+        "type": "Image",
+        "description": "Early Concept Diagram",
+        "externalUrl": null,
+        "publishedBy": null,
+        "publishedDate": null,
+        "files": [
+          {
+            "id": 5045,
+            "url": "https://techport.nasa.gov/file/5045",
+            "size": 26411
+          }
+        ]
+      }
+    ],
+    "supportingOrganizations": [
+      {
+        "name": "Jet Propulsion Laboratory",
+        "type": "NASA Center",
+        "acronym": "JPL",
+        "city": "Pasadena",
+        "state": "CA",
+        "country": "United States"
+      },
+      {
+        "name": "University of Arizona",
+        "type": "Academic",
+        "acronym": null,
+        "city": "Tucson",
+        "state": "AZ",
+        "country": "United States"
+      }
+    ],
+    "coFundingPartners": [
+      {
+        "name": "Cornell University",
+        "type": "Academic",
+        "acronym": null,
+        "city": "Ithaca",
+        "state": "NY",
+        "country": "United States"
+      },
+      {
+        "name": "Johns Hopkins University Applied Physics Laboratory",
+        "type": "Academic",
+        "acronym": "JHU/APL",
+        "city": "Laurel",
+        "state": "MD",
+        "country": "United States"
+      },
+      {
+        "name": "Southwest Research Institute",
+        "type": "Academic",
+        "acronym": "SWRI",
+        "city": "Boulder",
+        "state": "CO",
+        "country": "United States"
+      }
+    ],
+    "primaryTas": [
+      {
+        "id": 10645,
+        "code": "TX05",
+        "title": "Communications, Navigation, and Orbital Debris Tracking and Characterization Systems",
+        "priority": null
+      },
+      {
+        "id": 10654,
+        "code": "TX05.2",
+        "title": "Radio Frequency",
+        "priority": null
+      },
+      {
+        "id": 10660,
+        "code": "TX05.2.6",
+        "title": "Innovative Antennas",
+        "priority": null
+      }
+    ],
+    "additionalTas": []
+  }
+}
