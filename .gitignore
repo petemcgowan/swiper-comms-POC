@@ -1,3 +1,4 @@
 node_modules
 notesdraft/*
 .DS_Store
+.env
